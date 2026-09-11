@@ -22,7 +22,7 @@ public class Wire : MonoBehaviour
     {
         transform.localPosition = Vector3.zero;
         transform.localRotation = Quaternion.Euler( Vector3.zero );
-        Rigidbody2D.velocity = Vector2.zero;
+        Rigidbody2D.linearVelocity = Vector2.zero;
         Rigidbody2D.angularVelocity = 0;
 
         Rigidbody2D.simulated = _flag;

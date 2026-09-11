@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: StageIconThumbnail
+  m_EditorClassIdentifier: 
+  Category: 10
+  AdressList:
+  - AssetName: Thumbnail_e0000_PRIMARY
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0000_PRIMARY.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0001_SECONDARY
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0001_SECONDARY.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0002_TERTIARY
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0002_TERTIARY.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0003_QUATERNARY
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0003_QUATERNARY.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0004_QUINARY
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0004_QUINARY.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0005_SENARY
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0005_SENARY.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0006_ALPHA
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0006_ALPHA.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0007_BETA
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0007_BETA.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0008_GAMMA
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0008_GAMMA.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0009_DELTA
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0009_DELTA.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0010_EPSILON
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0010_EPSILON.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0011_ZETA
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0011_ZETA.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0012_ETA
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0012_ETA.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0013_ETA-2
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0013_ETA-2.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0014_ZETA-2
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0014_ZETA-2.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0015_EPSILON-2
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0015_EPSILON-2.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0016_DELTA-2
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0016_DELTA-2.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0017_GAMMA-2
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0017_GAMMA-2.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0018_BETA-2
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0018_BETA-2.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: -1
+    UseContidion: 0
+  - AssetName: Thumbnail_e0019_ALPHA-2
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0019_ALPHA-2.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: -1
+    UseContidion: 0
+  - AssetName: Thumbnail_e0020_QUINARY-2
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0020_QUINARY-2.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0021_QUATERNARY-2
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0021_QUATERNARY-2.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Thumbnail_e0022_TERTIARY-2
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0022_TERTIARY-2.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: -1
+    UseContidion: 0
+  - AssetName: Thumbnail_e0023_SECONDARY-2
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0023_SECONDARY-2.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: -1
+    UseContidion: 0
+  - AssetName: Thumbnail_e0024_PRIMARY-2
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0024_PRIMARY-2.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: -1
+    UseContidion: 0
+  - AssetName: Thumbnail_e0025_PRIMARY_0
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/Thumbnail_e0025_PRIMARY_0.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

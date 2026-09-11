@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: DuplicationResources_Obi
+  m_EditorClassIdentifier: 
+  Category: 32
+  AdressList:
+  - AssetName: Balloon
+    Address: Assets/Blueprints/Rope/Balloon.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: DefaultRopeSection
+    Address: Assets/Obi/ObiResources/DefaultRopeSection.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ParticleShader
+    Address: Assets/Obi/ObiResources/ObiMaterials/ParticleShader.shader
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: MediumFriction
+    Address: Assets/Obi/Samples/Common/SampleResources/CollisionMaterials/MediumFriction.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Metal 2
+    Address: Assets/Obi/Samples/Common/SampleResources/Materials/Metal 2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Metal
+    Address: Assets/Obi/Samples/Common/SampleResources/Materials/Metal.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Lava_light
+    Address: Assets/Obi/Samples/Fluid/SampleResources/Blueprints/Lava_light.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Water_3_light
+    Address: Assets/Obi/Samples/Fluid/SampleResources/Blueprints/Water_3_light.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Water_4_light_1
+    Address: Assets/Obi/Samples/Fluid/SampleResources/Blueprints/Water_4_light_1.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Water_4_light_2
+    Address: Assets/Obi/Samples/Fluid/SampleResources/Blueprints/Water_4_light_2.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: LineRope
+    Address: Assets/Obi/Samples/RopeAndRod/SampleResources/Materials/LineRope.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: cylinder_NRM
+    Address: Assets/Obi/Samples/RopeAndRod/SampleResources/Textures/cylinder_NRM.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Rope_red
+    Address: Assets/Obi/Samples/RopeAndRod/SampleResources/Textures/Rope_red.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

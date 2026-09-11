@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: CharaSkinCatalog
+  m_EditorClassIdentifier: 
+  Category: 56
+  AdressList:
+  - AssetName: CharaSkinCatalog_01_Normal_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_01_Normal_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_02_Pitcher_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_02_Pitcher_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_03_Jump_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_03_Jump_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_04_Heavy_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_04_Heavy_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_05_Balloon_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_05_Balloon_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_06_Bomber_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_06_Bomber_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_07_Electric_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_07_Electric_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_08_Magnet_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_08_Magnet_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_09_Oustretched_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_09_Oustretched_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_10_Diver_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_10_Diver_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_11_Ball_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_11_Ball_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_12_Fire_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_12_Fire_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_13_Glue_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_13_Glue_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_14_Gravity_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_14_Gravity_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_15_Friction_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_15_Friction_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_16_Brawler_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_16_Brawler_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_17_Eraser_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_17_Eraser_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_18_Time_2P
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_18_Time_2P.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaSkinCatalog_19_Human
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_19_Human.asset
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: CharaSkinCatalog_20_Moai
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_20_Moai.asset
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: CharaSkinCatalog_21_Daruma
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_21_Daruma.asset
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: CharaSkinCatalog_22_TV
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_22_TV.asset
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: CharaSkinCatalog_23_Child
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_23_Child.asset
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: CharaSkinCatalog_24_Ganmons
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_24_Ganmons.asset
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: CharaSkinCatalog_25_Sumo
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_25_Sumo.asset
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: CharaSkinCatalog_26_Oliver
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_26_Oliver.asset
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: CharaSkinCatalog_27_John
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_27_John.asset
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: CharaSkinCatalog_28_Astronauts
+    Address: Assets/05_CharaSkin/ScriptbleObjects/CharaSkinCatalog_28_Astronauts.asset
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2

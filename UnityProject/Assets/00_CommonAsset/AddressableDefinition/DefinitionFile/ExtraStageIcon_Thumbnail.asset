@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: ExtraStageIcon_Thumbnail
+  m_EditorClassIdentifier: 
+  Category: 50
+  AdressList:
+  - AssetName: ExtraStage_Thumbnail_e0000
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/ExtraStage/Thumbnail/ExtraStage_Thumbnail_e0000.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ExtraStage_Thumbnail_e0001
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/ExtraStage/Thumbnail/ExtraStage_Thumbnail_e0001.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ExtraStage_Thumbnail_e0002
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/ExtraStage/Thumbnail/ExtraStage_Thumbnail_e0002.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ExtraStage_Thumbnail_e0003
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/ExtraStage/Thumbnail/ExtraStage_Thumbnail_e0003.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ExtraStage_Thumbnail_e0004
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/ExtraStage/Thumbnail/ExtraStage_Thumbnail_e0004.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ExtraStage_Thumbnail_e0005
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/ExtraStage/Thumbnail/ExtraStage_Thumbnail_e0005.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ExtraStage_Thumbnail_e0006
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/ExtraStage/Thumbnail/ExtraStage_Thumbnail_e0006.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ExtraStage_Thumbnail_e0007
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/ExtraStage/Thumbnail/ExtraStage_Thumbnail_e0007.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ExtraStage_Thumbnail_e0008
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/ExtraStage/Thumbnail/ExtraStage_Thumbnail_e0008.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ExtraStage_Thumbnail_e0009
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/ExtraStage/Thumbnail/ExtraStage_Thumbnail_e0009.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

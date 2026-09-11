@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: SE_UI
+  m_EditorClassIdentifier: 
+  Category: 19
+  AdressList:
+  - AssetName: SE_UI_000_Select
+    Address: Assets/03_AudioManagement/AudioClips/SE/UI/SE_UI_000_Select.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_UI_001_Return
+    Address: Assets/03_AudioManagement/AudioClips/SE/UI/SE_UI_001_Return.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_UI_002_CursorMove
+    Address: Assets/03_AudioManagement/AudioClips/SE/UI/SE_UI_002_CursorMove.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_UI_003_TitleSelect
+    Address: Assets/03_AudioManagement/AudioClips/SE/UI/SE_UI_003_TitleSelect.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_UI_004_CharacterSelectEnd
+    Address: Assets/03_AudioManagement/AudioClips/SE/UI/SE_UI_004_CharacterSelectEnd.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_UI_005_MoveAlongLine-Loop
+    Address: Assets/03_AudioManagement/AudioClips/SE/UI/SE_UI_005_MoveAlongLine-Loop.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_UI_006_Warp
+    Address: Assets/03_AudioManagement/AudioClips/SE/UI/SE_UI_006_Warp.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_UI_007_NewStageOpen
+    Address: Assets/03_AudioManagement/AudioClips/SE/UI/SE_UI_007_NewStageOpen.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_UI_008_CursorPut
+    Address: Assets/03_AudioManagement/AudioClips/SE/UI/SE_UI_008_CursorPut.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_UI_009_CursorPickUp
+    Address: Assets/03_AudioManagement/AudioClips/SE/UI/SE_UI_009_CursorPickUp.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

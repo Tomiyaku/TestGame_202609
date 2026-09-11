@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: BGM
+  m_EditorClassIdentifier: 
+  Category: 17
+  AdressList:
+  - AssetName: bgm_audio_000014_game
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_audio_000014_game.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_audio_000021_menu
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_audio_000021_menu.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_audio_000101_hero_game
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_audio_000101_hero_game.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_audio_000108_userq16_game
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_audio_000108_userq16_game.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_audio_000133_q2etude1_menu
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_audio_000133_q2etude1_menu.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_bound_play_BGM
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_bound_play_BGM.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q2_ElectroDance
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q2_ElectroDance.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q2_electroDISCO
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q2_electroDISCO.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q2_ELEPOP
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q2_ELEPOP.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q2_Future_Pop1
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q2_Future_Pop1.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q2_Future_Pop2
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q2_Future_Pop2.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q2_Future_reggae
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q2_Future_reggae.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q2_indoDance
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q2_indoDance.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q2_Melodic_Dubstep
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q2_Melodic_Dubstep.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q_Future
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q_Future.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q_play_Dark_electro2
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q_play_Dark_electro2.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q_play_electro_house2
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q_play_electro_house2.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q_play_Electro_pop2
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q_play_Electro_pop2.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q_play_Electronic
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q_play_Electronic.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q_select_BRAVE
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q_select_BRAVE.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q_select_Dark electro
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q_select_Dark electro.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q_select_electro house1
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q_select_electro house1.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q_select_Electro_pop1
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q_select_Electro_pop1.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_rev_DELTA_TECH
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q2_rev_DELTA_TECH.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_rev_ETA_dance pop
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q2_rev_ETA_dance pop.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_rev_GAMMA_Future Chill_feat_kamono_negi
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q2_rev_GAMMA_Future Chill_feat_kamono_negi.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_rev_QUATERNARY_electro house_202311
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q2_rev_QUATERNARY_electro house_202311.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_rev_QUINARY_Electro disco
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q2_rev_QUINARY_Electro disco.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_rev_ZETA_Electronic2
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q2_rev_ZETA_Electronic2.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q1_selsectBGM
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q1_selsectBGM.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_rev2_ALPHA_electro pop_2023_11
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q2_rev2_ALPHA_electro pop_2023_11.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_rev2_BETA_DANCE electronic_2023_11
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q2_rev2_BETA_DANCE electronic_2023_11.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_rev2_EPSILON_bollywood_2023_11
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q2_rev2_EPSILON_bollywood_2023_11.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_rev2_PRIMARY_bass dance _2023_11
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q2_rev2_PRIMARY_bass dance
+      _2023_11.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_rev2_SECONDARY_electronic dance2_2023_11
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q2_rev2_SECONDARY_electronic
+      dance2_2023_11.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_rev2_TERTIARY_Electro House
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q2_rev2_TERTIARY_Electro House.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bgm_Q_HELL
+    Address: Assets/03_AudioManagement/AudioClips/BGM/bgm_Q_HELL.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q1_037_SEPTENARY1_menu
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q1_037_SEPTENARY1_menu.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q1_075_mi2_menu
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q1_075_mi2_menu.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q1_057_VAULT-B3_menu
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q1_057_VAULT-B3_menu.wav
+    IsSceneAsset: 0
+    UsePlatform: 3
+    UseContidion: 0
+  - AssetName: Q1_058_VAULT-B3_game
+    Address: Assets/03_AudioManagement/AudioClips/BGM/Q1_058_VAULT-B3_game.wav
+    IsSceneAsset: 0
+    UsePlatform: 3
+    UseContidion: 0

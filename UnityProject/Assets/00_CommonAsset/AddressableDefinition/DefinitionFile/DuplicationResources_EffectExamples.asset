@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: DuplicationResources_EffectExamples
+  m_EditorClassIdentifier: 
+  Category: 30
+  AdressList:
+  - AssetName: DebrisParticle
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Materials/DebrisParticle.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Dust
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Materials/Dust.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Embers
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Materials/Embers.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Explosion
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Materials/Explosion.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ExplosionDistortion
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Materials/ExplosionDistortion.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: fireball
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Materials/fireball.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: FireExplosion
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Materials/FireExplosion.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: LargeFlame02
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Materials/LargeFlame02.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: LightningTrail
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Materials/LightningTrail.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: MediumFlame03
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Materials/MediumFlame03.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PlasmaExplosion
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Materials/PlasmaExplosion.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SandParticle
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Materials/SandParticle.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SmokeDark
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Materials/SmokeDark.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ParticlesLight 1
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/ParticlesLight
+      1.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ParticlesLight 2
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/ParticlesLight
+      2.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ParticlesLight 3
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/ParticlesLight
+      3.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ParticlesLight 4
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/ParticlesLight
+      4.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ParticlesLight
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/ParticlesLight.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Debris
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Textures/Debris.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Explosion
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Textures/Explosion.tif
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ExplosionEmission
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Textures/ExplosionEmission.tif
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Fireball
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Textures/Fireball.tif
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: FireBallEmission
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Textures/FireBallEmission.tif
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: FireExplosion
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Textures/FireExplosion.tif
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: LargeFlame02
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Textures/LargeFlame02.tif
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: LightningTrail
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Textures/LightningTrail.tif
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: MediumFlame03
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Textures/MediumFlame03.tif
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: S3
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Textures/S3.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: shockwave
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Textures/shockwave.tif
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SmokePuff01
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Textures/SmokePuff01.tif
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SmokePuff02
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Textures/SmokePuff02.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SphereNormal
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Textures/SphereNormal.tif
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: TinyStones
+    Address: Assets/EffectExamples/Fire & Explosion Effects/Textures/TinyStones.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Dust 1
+    Address: Assets/EffectExamples/Smoke & Steam Effects/Materials/Dust 1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: HeatDistortion
+    Address: Assets/EffectExamples/Smoke & Steam Effects/Materials/HeatDistortion.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: RockDebris
+    Address: Assets/EffectExamples/Smoke & Steam Effects/Materials/RockDebris.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: RockDebris
+    Address: Assets/EffectExamples/Smoke & Steam Effects/Models/RockDebris.FBX
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SmokeLoop02
+    Address: Assets/EffectExamples/Smoke & Steam Effects/Textures/SmokeLoop02.tif
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SmokePuff04
+    Address: Assets/EffectExamples/Smoke & Steam Effects/Textures/SmokePuff04.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: wispySmoke
+    Address: Assets/EffectExamples/Smoke & Steam Effects/Textures/wispySmoke.tif
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: WispySmokeNormal
+    Address: Assets/EffectExamples/Smoke & Steam Effects/Textures/WispySmokeNormal.tif
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

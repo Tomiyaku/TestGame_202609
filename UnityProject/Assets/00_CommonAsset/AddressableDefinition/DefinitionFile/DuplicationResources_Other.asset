@@ -1,0 +1,361 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: DuplicationResources_Other
+  m_EditorClassIdentifier: 
+  Category: 33
+  AdressList:
+  - AssetName: mate_ed_white 2
+    Address: Assets/01_UI/01_10_EventScene/Particles/Q2_Ending/mate_ed_white 2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q_logo
+    Address: Assets/01_UI/01_10_EventScene/Particles/Q2_Ending/Q_logo.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: countdown
+    Address: Assets/Animations/countdown.anim
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Countdown
+    Address: Assets/Animations/Countdown.controller
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: countdown_hide
+    Address: Assets/Animations/countdown_hide.anim
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: punch
+    Address: Assets/Animations/punch.anim
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: laser_impact
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/laser_impact.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_14_137
+    Address: Assets/Blueprints/Rope/Stage_14_137.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: 0-hit-3
+    Address: Assets/Hits Slashes Vol2/Materials/0-hit-3.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: glow-orange
+    Address: Assets/Hits Slashes Vol2/Materials/glow-orange.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: particles-red
+    Address: Assets/Hits Slashes Vol2/Materials/particles-red.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: rays
+    Address: Assets/Hits Slashes Vol2/Materials/rays.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: shockwave-0
+    Address: Assets/Hits Slashes Vol2/Materials/shockwave-0.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: shockwave-front-orange
+    Address: Assets/Hits Slashes Vol2/Materials/shockwave-front-orange.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: 0-hit-3
+    Address: Assets/Hits Slashes Vol2/Sprites/0-hit-3.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: glow-red
+    Address: Assets/Hits Slashes Vol2/Sprites/glow-red.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: particles-red
+    Address: Assets/Hits Slashes Vol2/Sprites/particles-red.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: rays
+    Address: Assets/Hits Slashes Vol2/Sprites/rays.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: shockwave-00
+    Address: Assets/Hits Slashes Vol2/Sprites/shockwave-00.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: shockwave-front-orange
+    Address: Assets/Hits Slashes Vol2/Sprites/shockwave-front-orange.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: mtl_lava_simple 1
+    Address: Assets/Lava_Flowing_Shader/Materials/mtl_lava_simple 1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Unlit_Lava_Simple
+    Address: Assets/Lava_Flowing_Shader/Shaders/Unlit_Lava_Simple.shader
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: lava1 1
+    Address: Assets/Lava_Flowing_Shader/Textures/lava1 1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Coin_Skin3
+    Address: Assets/Q2_Object1/Coin_Skin3.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ptcl_chara_common_PunchKick_hit
+    Address: Assets/Q2_Particle/ptcl_chara_common_PunchKick_hit.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PS_Circle
+    Address: Assets/QFX/Sci-Fi VFX/VFX_Resources/Materials/Blaster/Plasma Gun/PS_Circle.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Cylinder
+    Address: Assets/QFX/Sci-Fi VFX/VFX_Resources/Meshes/Geometry/Cylinder.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SFX_AdjustMask
+    Address: Assets/QFX/Sci-Fi VFX/VFX_Resources/Shaders/Mask/SFX_AdjustMask.shader
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: HardCircle
+    Address: Assets/QFX/Sci-Fi VFX/VFX_Resources/Textures/Geometry/HardCircle.psd
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: TextRenderTexture
+    Address: Assets/RenderTextures/TextRenderTexture.renderTexture
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: WaterRenderTexture
+    Address: Assets/RenderTextures/WaterRenderTexture.renderTexture
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGPostProcessing Profile
+    Address: Assets/Scenes/SampleScene_Profiles/BGPostProcessing Profile.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PostProcessing Profile
+    Address: Assets/Scenes/SampleScene_Profiles/PostProcessing Profile.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Balloon_Handle
+    Address: Assets/TestModels/object/Balloon_Handle.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Balloon
+    Address: Assets/TestModels/testmodel_latex2/Balloon.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: TESTMODEL_1_0
+    Address: Assets/TestModels/TESTMODEL_mini/TESTMODEL_1_0.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: New Material 23
+    Address: Assets/Texture/New Material 23.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_playerHandle_x2
+    Address: Assets/UI/images/forPlayerNameAndPlayerHandle/img_ui_playerHandle_x2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_playerNameCarsor
+    Address: Assets/UI/images/forPlayerNameAndPlayerHandle/img_ui_playerNameCarsor.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: anim_animShatter_GreenToOpen
+    Address: Assets/zzzzz_tomishigeData/animShatter/Animator/anim_animShatter_GreenToOpen.anim
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: anim_animShatter_Red
+    Address: Assets/zzzzz_tomishigeData/animShatter/Animator/anim_animShatter_Red.anim
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: anim_animShatter_RedToYellow
+    Address: Assets/zzzzz_tomishigeData/animShatter/Animator/anim_animShatter_RedToYellow.anim
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: anim_animShatter_YellowToGreen
+    Address: Assets/zzzzz_tomishigeData/animShatter/Animator/anim_animShatter_YellowToGreen.anim
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: animc_animShatter
+    Address: Assets/zzzzz_tomishigeData/animShatter/Animator/animc_animShatter.controller
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: mat_animShatter_indicator_green
+    Address: Assets/zzzzz_tomishigeData/animShatter/Materials/mat_animShatter_indicator_green.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: mat_animShatter_indicator_red
+    Address: Assets/zzzzz_tomishigeData/animShatter/Materials/mat_animShatter_indicator_red.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: mat_animShatter_indicator_yellow
+    Address: Assets/zzzzz_tomishigeData/animShatter/Materials/mat_animShatter_indicator_yellow.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Material
+    Address: Assets/zzzzz_tomishigeData/animShatter/Materials/Material.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: "\u30DE\u30C6\u30EA\u30A2\u30EB.001"
+    Address: "Assets/zzzzz_tomishigeData/animShatter/Materials/\u30DE\u30C6\u30EA\u30A2\u30EB.001.mat"
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: obj_animShatter
+    Address: Assets/zzzzz_tomishigeData/animShatter/obj_animShatter.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: mat_cable_blue
+    Address: Assets/zzzzz_tomishigeData/balljoint_cable/mat_cable_blue.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: mat_cable_red
+    Address: Assets/zzzzz_tomishigeData/balljoint_cable/mat_cable_red.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: obj_cable_joint
+    Address: Assets/zzzzz_tomishigeData/balljoint_cable/obj_cable_joint.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: obj_cable_link
+    Address: Assets/zzzzz_tomishigeData/balljoint_cable/obj_cable_link.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: mat_exHand_wire
+    Address: Assets/zzzzz_tomishigeData/exHand/mat_exHand_wire.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tex_exHand_jointAndHand
+    Address: Assets/zzzzz_tomishigeData/exHand/Materials/tex_exHand_jointAndHand.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tex_extendArm
+    Address: Assets/zzzzz_tomishigeData/exHand/Materials/tex_extendArm.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: obj_exHand_hand_r
+    Address: Assets/zzzzz_tomishigeData/exHand/obj_exHand_hand_r.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: obj_exHand_joint
+    Address: Assets/zzzzz_tomishigeData/exHand/obj_exHand_joint.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tex_exHand_jointAndHand
+    Address: Assets/zzzzz_tomishigeData/exHand/tex_exHand_jointAndHand.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tex_exHand_wire
+    Address: Assets/zzzzz_tomishigeData/exHand/tex_exHand_wire.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: for091_edgeRoundedBlock
+    Address: Assets/zzzzz_tomishigeData/for091_edgeRoundedBlock.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: anim_grabpoint
+    Address: Assets/zzzzz_tomishigeData/grab_mark/animation/anim_grabpoint.anim
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: grabpoint
+    Address: Assets/zzzzz_tomishigeData/grab_mark/animation/grabpoint.controller
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_mark_grabpoint
+    Address: Assets/zzzzz_tomishigeData/grab_mark/img_mark_grabpoint.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Material
+    Address: Assets/zzzzz_tomishigeData/Materials/Material.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tex_diver_tank
+    Address: "Assets/zzzzz_tomishigeData/\u8FFD\u52A0\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8/\u30C0\u30A4\u30D0\u30FC_\u5438\u6C34\u30BF\u30F3\u30AF/tex_diver_tank.png"
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: diver_tank
+    Address: "Assets/zzzzz_tomishigeData/\u8FFD\u52A0\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8/\u30C0\u30A4\u30D0\u30FC_\u5438\u6C34\u30BF\u30F3\u30AF/diver_tank.fbx"
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ptcl_chara_skill_friction_hit
+    Address: Assets/Q2_Particle/ptcl_chara_skill_friction_hit.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

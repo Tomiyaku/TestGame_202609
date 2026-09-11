@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0df5d518fbf82c54da34869a20cea78b, type: 3}
+  m_Name: KeyboardControlAssignmentData
+  m_EditorClassIdentifier: 
+  OKKeys: 0100000002000000
+  CancelKeys: 3c000000
+  MenuKeys: 03000000
+  LeftArrowUpKeys: 250000003f000000
+  LeftArrowDownKeys: 2100000040000000
+  LeftArrowLeftKeys: 0f0000003d000000
+  LeftArrowRightKeys: 120000003e000000
+  RightArrowUpKeys: 17000000
+  RighArrowDownKeys: 19000000
+  RighArrowLeftKeys: 18000000
+  RighArrowRightKeys: 1a000000
+  JumpKeys: 0100000002000000
+  PunchKeys: 1400000006000000
+  CatchKeys: 130000001d000000
+  SpecialKeys: 1f00000023000000
+  Emote_1Keys: 29000000
+  Emote_2Keys: 2a000000
+  Emote_3Keys: 2b000000
+  Emote_4Keys: 2c000000

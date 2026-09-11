@@ -1,0 +1,306 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: CharaSkin
+  m_EditorClassIdentifier: 
+  Category: 55
+  AdressList:
+  - AssetName: Skin00_Normal_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin00_Normal_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin01_Pitcher_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin01_Pitcher_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin02_Jump_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin02_Jump_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin03_Heavy_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin03_Heavy_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin04_Balloon_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin04_Balloon_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin05_Bomber_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin05_Bomber_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin06_Electric_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin06_Electric_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin07_Magnet_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin07_Magnet_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin08_Oustretched_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin08_Oustretched_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin09_Diver_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin09_Diver_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin10_Ball_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin10_Ball_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin11_Fire_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin11_Fire_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin12_Glue_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin12_Glue_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin13_Gravity_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin13_Gravity_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin14_Friction_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin14_Friction_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin15_Brawler_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin15_Brawler_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin16_Eraser_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin16_Eraser_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Skin17_Time_2P
+    Address: Assets/Prefabs/Actor/Skin/Skin17_Time_2P.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SkinC00_Human_1
+    Address: Assets/Prefabs/Actor/Skin/SkinC00_Human_1.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC01_Human_2
+    Address: Assets/Prefabs/Actor/Skin/SkinC01_Human_2.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC02_Human_3
+    Address: Assets/Prefabs/Actor/Skin/SkinC02_Human_3.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC03_Human_4
+    Address: Assets/Prefabs/Actor/Skin/SkinC03_Human_4.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC04_Moai_1
+    Address: Assets/Prefabs/Actor/Skin/SkinC04_Moai_1.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC05_Moai_2
+    Address: Assets/Prefabs/Actor/Skin/SkinC05_Moai_2.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC06_Moai_3
+    Address: Assets/Prefabs/Actor/Skin/SkinC06_Moai_3.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC07_Moai_4
+    Address: Assets/Prefabs/Actor/Skin/SkinC07_Moai_4.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC08_Daruma_1
+    Address: Assets/Prefabs/Actor/Skin/SkinC08_Daruma_1.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC09_Daruma_2
+    Address: Assets/Prefabs/Actor/Skin/SkinC09_Daruma_2.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC10_Daruma_3
+    Address: Assets/Prefabs/Actor/Skin/SkinC10_Daruma_3.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC11_Daruma_4
+    Address: Assets/Prefabs/Actor/Skin/SkinC11_Daruma_4.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC12_TV_1
+    Address: Assets/Prefabs/Actor/Skin/SkinC12_TV_1.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC13_TV_2
+    Address: Assets/Prefabs/Actor/Skin/SkinC13_TV_2.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC14_TV_3
+    Address: Assets/Prefabs/Actor/Skin/SkinC14_TV_3.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC15_TV_4
+    Address: Assets/Prefabs/Actor/Skin/SkinC15_TV_4.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC16_Child_1
+    Address: Assets/Prefabs/Actor/Skin/SkinC16_Child_1.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC17_Child_2
+    Address: Assets/Prefabs/Actor/Skin/SkinC17_Child_2.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC18_Child_3
+    Address: Assets/Prefabs/Actor/Skin/SkinC18_Child_3.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC19_Child_4
+    Address: Assets/Prefabs/Actor/Skin/SkinC19_Child_4.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC20_Ganmons_1
+    Address: Assets/Prefabs/Actor/Skin/SkinC20_Ganmons_1.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC21_Ganmons_2
+    Address: Assets/Prefabs/Actor/Skin/SkinC21_Ganmons_2.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC22_Ganmons_3
+    Address: Assets/Prefabs/Actor/Skin/SkinC22_Ganmons_3.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC23_Ganmons_4
+    Address: Assets/Prefabs/Actor/Skin/SkinC23_Ganmons_4.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC24_Sumo_1
+    Address: Assets/Prefabs/Actor/Skin/SkinC24_Sumo_1.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC25_Sumo_2
+    Address: Assets/Prefabs/Actor/Skin/SkinC25_Sumo_2.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC26_Sumo_3
+    Address: Assets/Prefabs/Actor/Skin/SkinC26_Sumo_3.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC27_Sumo_4
+    Address: Assets/Prefabs/Actor/Skin/SkinC27_Sumo_4.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC28_Oliver_1
+    Address: Assets/Prefabs/Actor/Skin/SkinC28_Oliver_1.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC29_Oliver_2
+    Address: Assets/Prefabs/Actor/Skin/SkinC29_Oliver_2.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC30_Oliver_3
+    Address: Assets/Prefabs/Actor/Skin/SkinC30_Oliver_3.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC31_Oliver_4
+    Address: Assets/Prefabs/Actor/Skin/SkinC31_Oliver_4.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC32_John_1
+    Address: Assets/Prefabs/Actor/Skin/SkinC32_John_1.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC33_John_2
+    Address: Assets/Prefabs/Actor/Skin/SkinC33_John_2.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC34_John_3
+    Address: Assets/Prefabs/Actor/Skin/SkinC34_John_3.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC35_John_4
+    Address: Assets/Prefabs/Actor/Skin/SkinC35_John_4.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC36_Astronauts_1
+    Address: Assets/Prefabs/Actor/Skin/SkinC36_Astronauts_1.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC37_Astronauts_2
+    Address: Assets/Prefabs/Actor/Skin/SkinC37_Astronauts_2.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC38_Astronauts_3
+    Address: Assets/Prefabs/Actor/Skin/SkinC38_Astronauts_3.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2
+  - AssetName: SkinC39_Astronauts_4
+    Address: Assets/Prefabs/Actor/Skin/SkinC39_Astronauts_4.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 2

@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: DuplicationResources_NameEdit
+  m_EditorClassIdentifier: 
+  Category: 21
+  AdressList:
+  - AssetName: img_keypad_backspace
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_backspace.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_en_00
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_en_00.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_en_01
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_en_01.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_en_02
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_en_02.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_en_03
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_en_03.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_en_04
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_en_04.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_en_changenum
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_en_changenum.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_en_mark1
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_en_mark1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_en_mark2
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_en_mark2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_en_mark3
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_en_mark3.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_en_pqrs
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_en_pqrs.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_en_tuv
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_en_tuv.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_en_wxyz
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_en_wxyz.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_ennum_shift_lock
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_ennum_shift_lock.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_ennum_shift_off
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_ennum_shift_off.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_ennum_shift_on
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_ennum_shift_on.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_num_0
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_num_0.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_num_1
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_num_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_num_2
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_num_2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_num_3
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_num_3.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_num_4
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_num_4.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_num_5
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_num_5.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_num_6
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_num_6.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_num_7
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_num_7.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_num_8
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_num_8.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_num_9
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_num_9.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_num_mark
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_num_mark.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_keypad_ok
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/NameEdit/img_keypad_ok.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: NameEdit
+    Address: Assets/01_UI/01_03_CharacterSelect/SpriteAtlas/NameEdit.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

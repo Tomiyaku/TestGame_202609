@@ -1,0 +1,386 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: DuplicationResources_Motions
+  m_EditorClassIdentifier: 
+  Category: 28
+  AdressList:
+  - AssetName: Balloon_Inflator
+    Address: Assets/Motions/Balloon_Inflator.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CBB_Motion
+    Address: Assets/Motions/Character/CBB_Motion.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: lambert1
+    Address: Assets/Motions/Character/Materials/lambert1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Eraser
+    Address: Assets/Motions/Eraser.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Eraser2
+    Address: Assets/Motions/Eraser2.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gravity
+    Address: Assets/Motions/Gravity.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hand
+    Address: Assets/Motions/Hand.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Idle_Ball
+    Address: Assets/Motions/Idle/Idle_Ball.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Idle_Balloon
+    Address: Assets/Motions/Idle/Idle_Balloon.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Idle_Bomber
+    Address: Assets/Motions/Idle/Idle_Bomber.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Idle_Diver
+    Address: Assets/Motions/Idle/Idle_Diver.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Idle_Electric
+    Address: Assets/Motions/Idle/Idle_Electric.anim
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Idle_Fire
+    Address: Assets/Motions/Idle/Idle_Fire.anim
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Idle_Glue
+    Address: Assets/Motions/Idle/Idle_Glue.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Idle_Heavy
+    Address: Assets/Motions/Idle/Idle_Heavy.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Idle_Hero
+    Address: Assets/Motions/Idle/Idle_Hero.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Idle_Jumper
+    Address: Assets/Motions/Idle/Idle_Jumper.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Idle_Magnet
+    Address: Assets/Motions/Idle/Idle_Magnet.anim
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Idle_Normal
+    Address: Assets/Motions/Idle/Idle_Normal.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Idle_Outstretched
+    Address: Assets/Motions/Idle/Idle_Outstretched.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Idle_Pitcher
+    Address: Assets/Motions/Idle/Idle_Pitcher.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Idle_Pitcher_Ball
+    Address: Assets/Motions/Idle/Idle_Pitcher_Ball.controller
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Idle_Pitcher_Ball
+    Address: Assets/Motions/Idle/Idle_Pitcher_Ball.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CBB
+    Address: Assets/Motions/Item_pose/CBB.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CBB_Motion
+    Address: Assets/Motions/Item_pose/CBB_Motion.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Item_Ball
+    Address: Assets/Motions/Item_pose/Item_Ball.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Item_Balloon
+    Address: Assets/Motions/Item_pose/Item_Balloon.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Item_Bomber
+    Address: Assets/Motions/Item_pose/Item_Bomber.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Item_Diver
+    Address: Assets/Motions/Item_pose/Item_Diver.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Item_Electoric
+    Address: Assets/Motions/Item_pose/Item_Electoric.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Item_Fire
+    Address: Assets/Motions/Item_pose/Item_Fire.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Item_Grue
+    Address: Assets/Motions/Item_pose/Item_Grue.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Item_Heavy
+    Address: Assets/Motions/Item_pose/Item_Heavy.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Item_Jumper
+    Address: Assets/Motions/Item_pose/Item_Jumper.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Item_Magnet
+    Address: Assets/Motions/Item_pose/Item_Magnet.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Item_Outstretched
+    Address: Assets/Motions/Item_pose/Item_Outstretched.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Item_Pitcher
+    Address: Assets/Motions/Item_pose/Item_Pitcher.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_PlayerUV
+    Address: Assets/Motions/Item_pose/Materials/Q2_PlayerUV.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Kick
+    Address: Assets/Motions/Kick.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: lambert1
+    Address: Assets/Motions/Materials/lambert1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Texture01
+    Address: Assets/Motions/Materials/Texture01.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Texture01
+    Address: Assets/Motions/Materials/Texture01.psd
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Motion_Effect
+    Address: Assets/Motions/Motion_Effect.controller
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Motion_Player
+    Address: Assets/Motions/Motion_Player.controller
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Punch
+    Address: Assets/Motions/Punch.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Idle_GravityPhone
+    Address: Assets/Motions/Q2_Gravity/Q2_Idle_GravityPhone.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Ball
+    Address: Assets/Motions/Q2_Motion_Ball.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Balloon
+    Address: Assets/Motions/Q2_Motion_Balloon.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Burned
+    Address: Assets/Motions/Q2_Motion_Burned.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Discharge
+    Address: Assets/Motions/Q2_Motion_Discharge.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Electric shock
+    Address: Assets/Motions/Q2_Motion_Electric shock.controller
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Electric shock
+    Address: Assets/Motions/Q2_Motion_Electric shock.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Eraser2
+    Address: Assets/Motions/Q2_Motion_Eraser2.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Fall
+    Address: Assets/Motions/Q2_Motion_Fall.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Fall-Stop
+    Address: Assets/Motions/Q2_Motion_Fall-Stop.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Grab
+    Address: Assets/Motions/Q2_Motion_Grab.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Gravity
+    Address: Assets/Motions/Q2_Motion_Gravity.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Inhale
+    Address: Assets/Motions/Q2_Motion_Inhale.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Jump
+    Address: Assets/Motions/Q2_Motion_Jump.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Kick
+    Address: Assets/Motions/Q2_Motion_Kick.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Landing
+    Address: Assets/Motions/Q2_Motion_Landing.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Punch
+    Address: Assets/Motions/Q2_Motion_Punch.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Run
+    Address: Assets/Motions/Q2_Motion_Run.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Slide1
+    Address: Assets/Motions/Q2_Motion_Slide1.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Slide2
+    Address: Assets/Motions/Q2_Motion_Slide2.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Stop
+    Address: Assets/Motions/Q2_Motion_Stop.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_SuddenBraking
+    Address: Assets/Motions/Q2_Motion_SuddenBraking.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Swim
+    Address: Assets/Motions/Q2_Motion_Swim.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Swim_Jump
+    Address: Assets/Motions/Q2_Motion_Swim_Jump.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_TheWorld
+    Address: Assets/Motions/Q2_Motion_TheWorld.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Wait
+    Address: Assets/Motions/Q2_Motion_Wait.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Walk
+    Address: Assets/Motions/Q2_Motion_Walk.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Motion_Win
+    Address: Assets/Motions/Q2_Motion_Win.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Player
+    Address: Assets/Motions/Q2_Player.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

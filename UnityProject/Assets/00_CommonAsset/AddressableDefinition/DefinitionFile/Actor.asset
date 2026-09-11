@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: Actor
+  m_EditorClassIdentifier: 
+  Category: 8
+  AdressList:
+  - AssetName: Chara00_Normal
+    Address: Assets/Prefabs/Actor/Chara00_Normal.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara01_Pitcher
+    Address: Assets/Prefabs/Actor/Chara01_Pitcher.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara02_Jump
+    Address: Assets/Prefabs/Actor/Chara02_Jump.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara03_Heavy
+    Address: Assets/Prefabs/Actor/Chara03_Heavy.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara04_Balloon
+    Address: Assets/Prefabs/Actor/Chara04_Balloon.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara05_Bomber
+    Address: Assets/Prefabs/Actor/Chara05_Bomber.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara06_Electric
+    Address: Assets/Prefabs/Actor/Chara06_Electric.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara07_Magnet
+    Address: Assets/Prefabs/Actor/Chara07_Magnet.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara08_Outstretched_dummy
+    Address: Assets/Prefabs/Actor/Chara08_Outstretched_dummy.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara09_Diver_dummy
+    Address: Assets/Prefabs/Actor/Chara09_Diver_dummy.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara10_Ball
+    Address: Assets/Prefabs/Actor/Chara10_Ball.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara11_Fire
+    Address: Assets/Prefabs/Actor/Chara11_Fire.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara12_Glue_dummy
+    Address: Assets/Prefabs/Actor/Chara12_Glue_dummy.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara13_Gravity_dummy
+    Address: Assets/Prefabs/Actor/Chara13_Gravity_dummy.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara14_Friction_dummy
+    Address: Assets/Prefabs/Actor/Chara14_Friction_dummy.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara15_Brawler_dummy
+    Address: Assets/Prefabs/Actor/Chara15_Brawler_dummy.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara16_Eraser_dummy
+    Address: Assets/Prefabs/Actor/Chara16_Eraser_dummy.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara17_Time
+    Address: Assets/Prefabs/Actor/Chara17_Time.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

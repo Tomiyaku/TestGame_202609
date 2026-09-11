@@ -1,0 +1,1031 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: DuplicationResources_Stage_Text_EN
+  m_EditorClassIdentifier: 
+  Category: 38
+  AdressList:
+  - AssetName: text_material_EN_0001
+    Address: Assets/Text_EN/Material/text_material_EN_0001.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0002
+    Address: Assets/Text_EN/Material/text_material_EN_0002.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0003
+    Address: Assets/Text_EN/Material/text_material_EN_0003.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0004
+    Address: Assets/Text_EN/Material/text_material_EN_0004.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0005
+    Address: Assets/Text_EN/Material/text_material_EN_0005.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0006
+    Address: Assets/Text_EN/Material/text_material_EN_0006.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0007
+    Address: Assets/Text_EN/Material/text_material_EN_0007.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0008
+    Address: Assets/Text_EN/Material/text_material_EN_0008.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0009
+    Address: Assets/Text_EN/Material/text_material_EN_0009.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0010
+    Address: Assets/Text_EN/Material/text_material_EN_0010.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0012
+    Address: Assets/Text_EN/Material/text_material_EN_0012.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0013
+    Address: Assets/Text_EN/Material/text_material_EN_0013.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0014
+    Address: Assets/Text_EN/Material/text_material_EN_0014.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0015
+    Address: Assets/Text_EN/Material/text_material_EN_0015.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0016
+    Address: Assets/Text_EN/Material/text_material_EN_0016.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0017
+    Address: Assets/Text_EN/Material/text_material_EN_0017.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0018
+    Address: Assets/Text_EN/Material/text_material_EN_0018.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0019
+    Address: Assets/Text_EN/Material/text_material_EN_0019.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0020
+    Address: Assets/Text_EN/Material/text_material_EN_0020.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0021
+    Address: Assets/Text_EN/Material/text_material_EN_0021.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0022
+    Address: Assets/Text_EN/Material/text_material_EN_0022.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0023
+    Address: Assets/Text_EN/Material/text_material_EN_0023.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0024
+    Address: Assets/Text_EN/Material/text_material_EN_0024.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0025
+    Address: Assets/Text_EN/Material/text_material_EN_0025.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0026
+    Address: Assets/Text_EN/Material/text_material_EN_0026.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0027
+    Address: Assets/Text_EN/Material/text_material_EN_0027.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0028
+    Address: Assets/Text_EN/Material/text_material_EN_0028.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0029
+    Address: Assets/Text_EN/Material/text_material_EN_0029.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0030
+    Address: Assets/Text_EN/Material/text_material_EN_0030.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0031
+    Address: Assets/Text_EN/Material/text_material_EN_0031.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0034
+    Address: Assets/Text_EN/Material/text_material_EN_0034.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0035
+    Address: Assets/Text_EN/Material/text_material_EN_0035.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0037
+    Address: Assets/Text_EN/Material/text_material_EN_0037.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0038
+    Address: Assets/Text_EN/Material/text_material_EN_0038.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0039
+    Address: Assets/Text_EN/Material/text_material_EN_0039.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0040
+    Address: Assets/Text_EN/Material/text_material_EN_0040.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0041
+    Address: Assets/Text_EN/Material/text_material_EN_0041.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0042
+    Address: Assets/Text_EN/Material/text_material_EN_0042.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0044
+    Address: Assets/Text_EN/Material/text_material_EN_0044.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0045
+    Address: Assets/Text_EN/Material/text_material_EN_0045.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0046
+    Address: Assets/Text_EN/Material/text_material_EN_0046.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0047
+    Address: Assets/Text_EN/Material/text_material_EN_0047.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0048
+    Address: Assets/Text_EN/Material/text_material_EN_0048.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0049
+    Address: Assets/Text_EN/Material/text_material_EN_0049.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0050
+    Address: Assets/Text_EN/Material/text_material_EN_0050.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0052
+    Address: Assets/Text_EN/Material/text_material_EN_0052.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0053
+    Address: Assets/Text_EN/Material/text_material_EN_0053.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0055
+    Address: Assets/Text_EN/Material/text_material_EN_0055.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0056
+    Address: Assets/Text_EN/Material/text_material_EN_0056.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0057
+    Address: Assets/Text_EN/Material/text_material_EN_0057.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0058
+    Address: Assets/Text_EN/Material/text_material_EN_0058.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0059
+    Address: Assets/Text_EN/Material/text_material_EN_0059.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0060
+    Address: Assets/Text_EN/Material/text_material_EN_0060.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0061
+    Address: Assets/Text_EN/Material/text_material_EN_0061.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0062
+    Address: Assets/Text_EN/Material/text_material_EN_0062.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0063_holo
+    Address: Assets/Text_EN/Material/text_material_EN_0063_holo.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0064
+    Address: Assets/Text_EN/Material/text_material_EN_0064.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0065
+    Address: Assets/Text_EN/Material/text_material_EN_0065.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0066
+    Address: Assets/Text_EN/Material/text_material_EN_0066.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0067
+    Address: Assets/Text_EN/Material/text_material_EN_0067.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0068
+    Address: Assets/Text_EN/Material/text_material_EN_0068.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0069
+    Address: Assets/Text_EN/Material/text_material_EN_0069.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0070
+    Address: Assets/Text_EN/Material/text_material_EN_0070.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0071
+    Address: Assets/Text_EN/Material/text_material_EN_0071.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0072
+    Address: Assets/Text_EN/Material/text_material_EN_0072.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0073
+    Address: Assets/Text_EN/Material/text_material_EN_0073.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0074
+    Address: Assets/Text_EN/Material/text_material_EN_0074.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0075
+    Address: Assets/Text_EN/Material/text_material_EN_0075.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0076
+    Address: Assets/Text_EN/Material/text_material_EN_0076.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0078
+    Address: Assets/Text_EN/Material/text_material_EN_0078.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0080
+    Address: Assets/Text_EN/Material/text_material_EN_0080.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0081
+    Address: Assets/Text_EN/Material/text_material_EN_0081.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0082
+    Address: Assets/Text_EN/Material/text_material_EN_0082.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0083
+    Address: Assets/Text_EN/Material/text_material_EN_0083.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0084
+    Address: Assets/Text_EN/Material/text_material_EN_0084.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0085
+    Address: Assets/Text_EN/Material/text_material_EN_0085.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0087
+    Address: Assets/Text_EN/Material/text_material_EN_0087.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0089
+    Address: Assets/Text_EN/Material/text_material_EN_0089.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_0096
+    Address: Assets/Text_EN/Material/text_material_EN_0096.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_black_0002
+    Address: Assets/Text_EN/Material/text_material_EN_black_0002.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_black_0007
+    Address: Assets/Text_EN/Material/text_material_EN_black_0007.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_black_0008
+    Address: Assets/Text_EN/Material/text_material_EN_black_0008.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_black_0026
+    Address: Assets/Text_EN/Material/text_material_EN_black_0026.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_black_0032
+    Address: Assets/Text_EN/Material/text_material_EN_black_0032.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_black_0033
+    Address: Assets/Text_EN/Material/text_material_EN_black_0033.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_black_0043
+    Address: Assets/Text_EN/Material/text_material_EN_black_0043.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_black_0049
+    Address: Assets/Text_EN/Material/text_material_EN_black_0049.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_black_0051
+    Address: Assets/Text_EN/Material/text_material_EN_black_0051.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_black_0054
+    Address: Assets/Text_EN/Material/text_material_EN_black_0054.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_black_0061
+    Address: Assets/Text_EN/Material/text_material_EN_black_0061.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_black_0077
+    Address: Assets/Text_EN/Material/text_material_EN_black_0077.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_black_0079
+    Address: Assets/Text_EN/Material/text_material_EN_black_0079.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_material_EN_black_0081
+    Address: Assets/Text_EN/Material/text_material_EN_black_0081.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0001
+    Address: Assets/Text_EN/Texture/text_EN_0001.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0002
+    Address: Assets/Text_EN/Texture/text_EN_0002.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0003
+    Address: Assets/Text_EN/Texture/text_EN_0003.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0004
+    Address: Assets/Text_EN/Texture/text_EN_0004.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0005
+    Address: Assets/Text_EN/Texture/text_EN_0005.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0006
+    Address: Assets/Text_EN/Texture/text_EN_0006.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0007
+    Address: Assets/Text_EN/Texture/text_EN_0007.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0008
+    Address: Assets/Text_EN/Texture/text_EN_0008.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0009
+    Address: Assets/Text_EN/Texture/text_EN_0009.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0010
+    Address: Assets/Text_EN/Texture/text_EN_0010.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0012
+    Address: Assets/Text_EN/Texture/text_EN_0012.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0013
+    Address: Assets/Text_EN/Texture/text_EN_0013.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0014
+    Address: Assets/Text_EN/Texture/text_EN_0014.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0015
+    Address: Assets/Text_EN/Texture/text_EN_0015.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0016
+    Address: Assets/Text_EN/Texture/text_EN_0016.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0017
+    Address: Assets/Text_EN/Texture/text_EN_0017.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0018
+    Address: Assets/Text_EN/Texture/text_EN_0018.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0019
+    Address: Assets/Text_EN/Texture/text_EN_0019.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0020
+    Address: Assets/Text_EN/Texture/text_EN_0020.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0021
+    Address: Assets/Text_EN/Texture/text_EN_0021.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0022
+    Address: Assets/Text_EN/Texture/text_EN_0022.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0023
+    Address: Assets/Text_EN/Texture/text_EN_0023.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0024
+    Address: Assets/Text_EN/Texture/text_EN_0024.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0025
+    Address: Assets/Text_EN/Texture/text_EN_0025.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0026
+    Address: Assets/Text_EN/Texture/text_EN_0026.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0027
+    Address: Assets/Text_EN/Texture/text_EN_0027.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0028
+    Address: Assets/Text_EN/Texture/text_EN_0028.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0029
+    Address: Assets/Text_EN/Texture/text_EN_0029.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0030
+    Address: Assets/Text_EN/Texture/text_EN_0030.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0031
+    Address: Assets/Text_EN/Texture/text_EN_0031.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0034
+    Address: Assets/Text_EN/Texture/text_EN_0034.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0035
+    Address: Assets/Text_EN/Texture/text_EN_0035.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0037
+    Address: Assets/Text_EN/Texture/text_EN_0037.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0038
+    Address: Assets/Text_EN/Texture/text_EN_0038.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0039
+    Address: Assets/Text_EN/Texture/text_EN_0039.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0040
+    Address: Assets/Text_EN/Texture/text_EN_0040.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0041
+    Address: Assets/Text_EN/Texture/text_EN_0041.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0042
+    Address: Assets/Text_EN/Texture/text_EN_0042.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0044
+    Address: Assets/Text_EN/Texture/text_EN_0044.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0045
+    Address: Assets/Text_EN/Texture/text_EN_0045.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0046
+    Address: Assets/Text_EN/Texture/text_EN_0046.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0047
+    Address: Assets/Text_EN/Texture/text_EN_0047.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0048
+    Address: Assets/Text_EN/Texture/text_EN_0048.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0049
+    Address: Assets/Text_EN/Texture/text_EN_0049.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0050
+    Address: Assets/Text_EN/Texture/text_EN_0050.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0052
+    Address: Assets/Text_EN/Texture/text_EN_0052.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0053
+    Address: Assets/Text_EN/Texture/text_EN_0053.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0055
+    Address: Assets/Text_EN/Texture/text_EN_0055.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0056
+    Address: Assets/Text_EN/Texture/text_EN_0056.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0057
+    Address: Assets/Text_EN/Texture/text_EN_0057.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0058
+    Address: Assets/Text_EN/Texture/text_EN_0058.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0059
+    Address: Assets/Text_EN/Texture/text_EN_0059.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0060
+    Address: Assets/Text_EN/Texture/text_EN_0060.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0061
+    Address: Assets/Text_EN/Texture/text_EN_0061.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0062
+    Address: Assets/Text_EN/Texture/text_EN_0062.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0063_holo
+    Address: Assets/Text_EN/Texture/text_EN_0063_holo.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0064
+    Address: Assets/Text_EN/Texture/text_EN_0064.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0065
+    Address: Assets/Text_EN/Texture/text_EN_0065.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0066
+    Address: Assets/Text_EN/Texture/text_EN_0066.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0067
+    Address: Assets/Text_EN/Texture/text_EN_0067.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0068
+    Address: Assets/Text_EN/Texture/text_EN_0068.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0069
+    Address: Assets/Text_EN/Texture/text_EN_0069.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0070
+    Address: Assets/Text_EN/Texture/text_EN_0070.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0071
+    Address: Assets/Text_EN/Texture/text_EN_0071.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0072
+    Address: Assets/Text_EN/Texture/text_EN_0072.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0073
+    Address: Assets/Text_EN/Texture/text_EN_0073.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0074
+    Address: Assets/Text_EN/Texture/text_EN_0074.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0075
+    Address: Assets/Text_EN/Texture/text_EN_0075.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0076
+    Address: Assets/Text_EN/Texture/text_EN_0076.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0078
+    Address: Assets/Text_EN/Texture/text_EN_0078.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0080
+    Address: Assets/Text_EN/Texture/text_EN_0080.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0081
+    Address: Assets/Text_EN/Texture/text_EN_0081.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0082
+    Address: Assets/Text_EN/Texture/text_EN_0082.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0083
+    Address: Assets/Text_EN/Texture/text_EN_0083.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0084
+    Address: Assets/Text_EN/Texture/text_EN_0084.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0085
+    Address: Assets/Text_EN/Texture/text_EN_0085.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0087
+    Address: Assets/Text_EN/Texture/text_EN_0087.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0089
+    Address: Assets/Text_EN/Texture/text_EN_0089.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_0096
+    Address: Assets/Text_EN/Texture/text_EN_0096.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_black_0002
+    Address: Assets/Text_EN/Texture/text_EN_black_0002.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_black_0007
+    Address: Assets/Text_EN/Texture/text_EN_black_0007.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_black_0008
+    Address: Assets/Text_EN/Texture/text_EN_black_0008.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_black_0026
+    Address: Assets/Text_EN/Texture/text_EN_black_0026.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_black_0032
+    Address: Assets/Text_EN/Texture/text_EN_black_0032.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_black_0033
+    Address: Assets/Text_EN/Texture/text_EN_black_0033.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_black_0043
+    Address: Assets/Text_EN/Texture/text_EN_black_0043.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_black_0049
+    Address: Assets/Text_EN/Texture/text_EN_black_0049.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_black_0051
+    Address: Assets/Text_EN/Texture/text_EN_black_0051.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_black_0054
+    Address: Assets/Text_EN/Texture/text_EN_black_0054.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_black_0061
+    Address: Assets/Text_EN/Texture/text_EN_black_0061.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_black_0077
+    Address: Assets/Text_EN/Texture/text_EN_black_0077.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_black_0079
+    Address: Assets/Text_EN/Texture/text_EN_black_0079.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: text_EN_black_0081
+    Address: Assets/Text_EN/Texture/text_EN_black_0081.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: mat_sumi
+    Address: Assets/Texture/mat_sumi.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: mate_kagiana 1
+    Address: Assets/Texture/mate_kagiana 1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: mate_kagiana
+    Address: Assets/Texture/mate_kagiana.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: mete_black
+    Address: Assets/Texture/mete_black.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: New Material 14
+    Address: Assets/Texture/New Material 14.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: New Material 16
+    Address: Assets/Texture/New Material 16.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: New Material 26
+    Address: Assets/Texture/New Material 26.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: New Material 27
+    Address: Assets/Texture/New Material 27.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: New Material 29
+    Address: Assets/Texture/New Material 29.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: New Material 3
+    Address: Assets/Texture/New Material 3.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: New Material 30
+    Address: Assets/Texture/New Material 30.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Keyhole2
+    Address: Assets/Texture/Tex_Keyhole2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tex_kiiro
+    Address: Assets/Texture/tex_kiiro.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tex_plane
+    Address: Assets/Texture/tex_plane.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tex_red
+    Address: Assets/Texture/tex_red.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tex_sumi
+    Address: Assets/Texture/tex_sumi.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: TEX_triangle
+    Address: Assets/Texture/TEX_triangle.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

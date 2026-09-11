@@ -1,0 +1,321 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: SE_Chara
+  m_EditorClassIdentifier: 
+  Category: 53
+  AdressList:
+  - AssetName: SE_Chara_000_TouchNoEntryArea
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_000_TouchNoEntryArea.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_001_EnterGravityArea
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_001_EnterGravityArea.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_002_TouchCannotOpenDoor
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_002_TouchCannotOpenDoor.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_003_Dead
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_003_Dead.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_004_CatchFire
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_004_CatchFire.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_005_ElectricShock
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_005_ElectricShock.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_006_Drown
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_006_Drown.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_007_Attack_000
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_007_Attack_000.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_008_Attack_001
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_008_Attack_001.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_009_Attack_002
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_009_Attack_002.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_010_Attack_003
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_010_Attack_003.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_011_Attack_004
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_011_Attack_004.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_012_Attack_005
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_012_Attack_005.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_013_Attack_006
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_013_Attack_006.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_014_Attack_007
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_014_Attack_007.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_015_Attack_008
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_015_Attack_008.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_016_Attack_009
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_016_Attack_009.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_017_Attack_010
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_017_Attack_010.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_018_Attack_011
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_018_Attack_011.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_019_AttackHit_000
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_019_AttackHit_000.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_020_AttackHit_001
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_020_AttackHit_001.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_021_AttackHit_002
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_021_AttackHit_002.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_022_AttackHit_003
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_022_AttackHit_003.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_023_AttackHit_004
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_023_AttackHit_004.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_024_Jump
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_024_Jump.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_025_Landing
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_025_Landing.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_026_Run
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_026_Run.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_027_Walk
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_027_Walk.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_028_ThornPrick
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_028_ThornPrick.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_029_Grab
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_029_Grab.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_030_Throw
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_030_Throw.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_031_StopTime
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_031_StopTime.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_032_Pitcher_Throw
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_032_Pitcher_Throw.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_033_Mighty_PickUp
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_033_Mighty_PickUp.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_034_Balloon_Inflate
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_034_Balloon_Inflate.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_035_Balloon_Burst
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_035_Balloon_Burst.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_036_Bom_Put
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_036_Bom_Put.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_037_Bom_PushButton
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_037_Bom_PushButton.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_038_Bom_Explode
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_038_Bom_Explode.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_039_Electric_Charge
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_039_Electric_Charge.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_040_Charge_Limit
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_040_Charge_Limit.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_041_Electric_Release
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_041_Electric_Release.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_042_Magnetic_Release
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_042_Magnetic_Release.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_043_Ourstretch_Injection
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_043_Ourstretch_Injection.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_044_Ourstretch_PullBack
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_044_Ourstretch_PullBack.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_045_Ourstretch_Reload
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_045_Ourstretch_Reload.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_046_Diver_Submarine_Dash
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_046_Diver_Submarine_Dash.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_047_Diver_Discharge
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_047_Diver_Discharge.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_048_Diver_Charge
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_048_Diver_Charge.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_049_Sphere_Change_Sphere
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_049_Sphere_Change_Sphere.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_050_Sphere_Return_Human
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_050_Sphere_Return_Human.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_051_Fire_Flamethrower
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_051_Fire_Flamethrower.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_052_Glue_Shoot
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_052_Glue_Shoot.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_053_Glue_Hit
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_053_Glue_Hit.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_054_Glue_Hardnes
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_054_Glue_Hardnes.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_055_Gravity_Give
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_055_Gravity_Give.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_056_Gravity_Hit
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_056_Gravity_Hit.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_057_Eraser_Give
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_057_Eraser_Give.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_058_Eraser_Hit
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_058_Eraser_Hit.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_059_Friction_Give
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_059_Friction_Give.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Chara_060_Friction_Hit
+    Address: Assets/03_AudioManagement/AudioClips/SE/Character/SE_Chara_060_Friction_Hit.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

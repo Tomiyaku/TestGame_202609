@@ -1,0 +1,1206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: DuplicationResources_Models
+  m_EditorClassIdentifier: 
+  Category: 27
+  AdressList:
+  - AssetName: Moai
+    Address: Assets/Models/_old/Moai.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Texture01
+    Address: Assets/Models/_old/Object1/Apple.fbm/Texture01.psd
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Beaker
+    Address: Assets/Models/_old/Object1/Beaker.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Darumaotoshi_A
+    Address: Assets/Models/_old/Object1/Darumaotoshi_A.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Darumaotoshi_B1
+    Address: Assets/Models/_old/Object1/Darumaotoshi_B1.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Darumaotoshi_B2
+    Address: Assets/Models/_old/Object1/Darumaotoshi_B2.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Darumaotoshi_B3
+    Address: Assets/Models/_old/Object1/Darumaotoshi_B3.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Darumaotoshi_B4
+    Address: Assets/Models/_old/Object1/Darumaotoshi_B4.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Darumaotoshi_B5
+    Address: Assets/Models/_old/Object1/Darumaotoshi_B5.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Daruma_Tex
+    Address: Assets/Models/_old/Object1/Materials/Daruma_Tex.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Daruma_Tex
+    Address: Assets/Models/_old/Object1/Materials/Daruma_Tex.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Texture01
+    Address: Assets/Models/_old/Object1/Materials/Texture01.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Texture01
+    Address: Assets/Models/_old/Object1/Materials/Texture01.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tamaire
+    Address: Assets/Models/_old/Object1/Tamaire.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q_Ball_1X1
+    Address: Assets/Models/_old/Q_Ball_1X1.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q_Stage_Cube_1X1
+    Address: Assets/Models/_old/Stage/Q_Stage_Cube_1X1.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: obj_brokenCableSheld
+    Address: Assets/Models/brokenCable/obj_brokenCableSheld.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tex_brokenCable
+    Address: Assets/Models/brokenCable/tex_brokenCable.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Cylinder_Front
+    Address: Assets/Models/Cylinder_Front.obj
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Cylinder_Inner
+    Address: Assets/Models/Cylinder_Inner.obj
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Cylinder_Outer
+    Address: Assets/Models/Cylinder_Outer.obj
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear00
+    Address: Assets/Models/Gear00.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: lambert1
+    Address: Assets/Models/Materials/lambert1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear01_1
+    Address: Assets/Models/Q2_BG_Gear/Gear01_1.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear01_3
+    Address: Assets/Models/Q2_BG_Gear/Gear01_3.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear01_4
+    Address: Assets/Models/Q2_BG_Gear/Gear01_4.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear01_5
+    Address: Assets/Models/Q2_BG_Gear/Gear01_5.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear02_1
+    Address: Assets/Models/Q2_BG_Gear/Gear02_1.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear02_2
+    Address: Assets/Models/Q2_BG_Gear/Gear02_2.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear03_1
+    Address: Assets/Models/Q2_BG_Gear/Gear03_1.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear03_2
+    Address: Assets/Models/Q2_BG_Gear/Gear03_2.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear03_3
+    Address: Assets/Models/Q2_BG_Gear/Gear03_3.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear04
+    Address: Assets/Models/Q2_BG_Gear/Gear04.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear05
+    Address: Assets/Models/Q2_BG_Gear/Gear05.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear06_1
+    Address: Assets/Models/Q2_BG_Gear/Gear06_1.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear06_2
+    Address: Assets/Models/Q2_BG_Gear/Gear06_2.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear07_1
+    Address: Assets/Models/Q2_BG_Gear/Gear07_1.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear07_2
+    Address: Assets/Models/Q2_BG_Gear/Gear07_2.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear07_3
+    Address: Assets/Models/Q2_BG_Gear/Gear07_3.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear08
+    Address: Assets/Models/Q2_BG_Gear/Gear08.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Gear09
+    Address: Assets/Models/Q2_BG_Gear/Gear09.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_RingA_Edge
+    Address: Assets/Models/Q2_Object/20230524/Object_RingA_Edge.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_RingB_Edge
+    Address: Assets/Models/Q2_Object/20230524/Object_RingB_Edge.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage1
+    Address: Assets/Models/Q2_Object/20230524/Stage1.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage1_2
+    Address: Assets/Models/Q2_Object/20230524/Stage1_2.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Box_Open_Edge
+    Address: Assets/Models/Q2_Object/Edge/Object_Box_Open_Edge.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Cylinder_M_Close_Edge
+    Address: Assets/Models/Q2_Object/Edge/Object_Cylinder_M_Close_Edge.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Cylinder_Short_Edge
+    Address: Assets/Models/Q2_Object/Edge/Object_Cylinder_Short_Edge.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Cylinder_U_S_Edge
+    Address: Assets/Models/Q2_Object/Edge/Object_Cylinder_U_S_Edge.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Donut_Open_Edge
+    Address: Assets/Models/Q2_Object/Edge/Object_Donut_Open_Edge.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Sox_Edge
+    Address: Assets/Models/Q2_Object/Edge/Object_Sox_Edge.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hero_BeltB2
+    Address: Assets/Models/Q2_Object/Key/Hero_BeltB2.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Normal01
+    Address: Assets/Models/Q2_Object/Key/Key_Normal01.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Normal03
+    Address: Assets/Models/Q2_Object/Key/Key_Normal03.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Normal04
+    Address: Assets/Models/Q2_Object/Key/Key_Normal04.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Normal07
+    Address: Assets/Models/Q2_Object/Key/Key_Normal07.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Normal08
+    Address: Assets/Models/Q2_Object/Key/Key_Normal08.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Normal10
+    Address: Assets/Models/Q2_Object/Key/Key_Normal10.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Normal12
+    Address: Assets/Models/Q2_Object/Key/Key_Normal12.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Normal13
+    Address: Assets/Models/Q2_Object/Key/Key_Normal13.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Normal15
+    Address: Assets/Models/Q2_Object/Key/Key_Normal15.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Normal18
+    Address: Assets/Models/Q2_Object/Key/Key_Normal18.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Normal25
+    Address: Assets/Models/Q2_Object/Key/Key_Normal25.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Normal28
+    Address: Assets/Models/Q2_Object/Key/Key_Normal28.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Normal30
+    Address: Assets/Models/Q2_Object/Key/Key_Normal30.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Sphere1
+    Address: Assets/Models/Q2_Object/Key/Key_Sphere1.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Wedge01
+    Address: Assets/Models/Q2_Object/Key/Key_Wedge01.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Wedge02
+    Address: Assets/Models/Q2_Object/Key/Key_Wedge02.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Wedge03
+    Address: Assets/Models/Q2_Object/Key/Key_Wedge03.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Key_Wedge04
+    Address: Assets/Models/Q2_Object/Key/Key_Wedge04.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Texture01
+    Address: Assets/Models/Q2_Object/Key/Materials/Texture01.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Bomb
+    Address: Assets/Models/Q2_Object/Object/Bomb.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Coin
+    Address: Assets/Models/Q2_Object/Object/Coin.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Default_Material
+    Address: Assets/Models/Q2_Object/Object/Materials/Default_Material.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: lambert1
+    Address: Assets/Models/Q2_Object/Object/Materials/lambert1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: net
+    Address: Assets/Models/Q2_Object/Object/Materials/net.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: phongE1
+    Address: Assets/Models/Q2_Object/Object/Materials/phongE1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Texture01 1
+    Address: Assets/Models/Q2_Object/Object/Materials/Texture01 1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Texture01
+    Address: Assets/Models/Q2_Object/Object/Materials/Texture01.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Texture01_Transparent
+    Address: Assets/Models/Q2_Object/Object/Materials/Texture01_Transparent.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Ball_BaseBass
+    Address: Assets/Models/Q2_Object/Object/Object_Ball_BaseBass.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Ball_BasketBall
+    Address: Assets/Models/Q2_Object/Object/Object_Ball_BasketBall.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Ball_Cross
+    Address: Assets/Models/Q2_Object/Object/Object_Ball_Cross.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Ball_Maru
+    Address: Assets/Models/Q2_Object/Object/Object_Ball_Maru.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Ball_Triangle
+    Address: Assets/Models/Q2_Object/Object/Object_Ball_Triangle.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Ball_Wood
+    Address: Assets/Models/Q2_Object/Object/Object_Ball_Wood.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_BasketBall_Goal
+    Address: Assets/Models/Q2_Object/Object/Object_BasketBall_Goal.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Battery
+    Address: Assets/Models/Q2_Object/Object/Object_Battery.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Bee
+    Address: Assets/Models/Q2_Object/Object/Object_Bee.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Bonfire
+    Address: Assets/Models/Q2_Object/Object/Object_Bonfire.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Bonfire_Hang
+    Address: Assets/Models/Q2_Object/Object/Object_Bonfire_Hang.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Box_Open_2D
+    Address: Assets/Models/Q2_Object/Object/Object_Box_Open_2D.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Brakeblock
+    Address: Assets/Models/Q2_Object/Object/Object_Brakeblock.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Burner2
+    Address: Assets/Models/Q2_Object/Object/Object_Burner2.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Button_Base
+    Address: Assets/Models/Q2_Object/Object/Object_Button_Base.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Cylinder_L
+    Address: Assets/Models/Q2_Object/Object/Object_Cylinder_L.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Cylinder_L_2D
+    Address: Assets/Models/Q2_Object/Object/Object_Cylinder_L_2D.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Cylinder_S
+    Address: Assets/Models/Q2_Object/Object/Object_Cylinder_S.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Cylinder_S_Close_2D
+    Address: Assets/Models/Q2_Object/Object/Object_Cylinder_S_Close_2D.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Cylinder_Short
+    Address: Assets/Models/Q2_Object/Object/Object_Cylinder_Short.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Cylinder_Short_2D
+    Address: Assets/Models/Q2_Object/Object/Object_Cylinder_Short_2D.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Cylinder_Short_Line
+    Address: Assets/Models/Q2_Object/Object/Object_Cylinder_Short_Line.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Cylinder_T_A
+    Address: Assets/Models/Q2_Object/Object/Object_Cylinder_T_A.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Dokan
+    Address: Assets/Models/Q2_Object/Object/Object_Dokan.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Donut_Box_3D
+    Address: Assets/Models/Q2_Object/Object/Object_Donut_Box_3D.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Donut_Close_3D
+    Address: Assets/Models/Q2_Object/Object/Object_Donut_Close_3D.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Donut_Open_2D
+    Address: Assets/Models/Q2_Object/Object/Object_Donut_Open_2D.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Dumbbell
+    Address: Assets/Models/Q2_Object/Object/Object_Dumbbell.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Electrode
+    Address: Assets/Models/Q2_Object/Object/Object_Electrode.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Flasco_Maru
+    Address: Assets/Models/Q2_Object/Object/Object_Flasco_Maru.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Glass
+    Address: Assets/Models/Q2_Object/Object/Object_Glass.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Hook
+    Address: Assets/Models/Q2_Object/Object/Object_Hook.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Kendama_Ken
+    Address: Assets/Models/Q2_Object/Object/Object_Kendama_Ken.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Kendama_Tama
+    Address: Assets/Models/Q2_Object/Object/Object_Kendama_Tama.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_LongBar_T_Line
+    Address: Assets/Models/Q2_Object/Object/Object_LongBar_T_Line.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Lumber
+    Address: Assets/Models/Q2_Object/Object/Object_Lumber.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Matchstick
+    Address: Assets/Models/Q2_Object/Object/Object_Matchstick.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Nail
+    Address: Assets/Models/Q2_Object/Object/Object_Nail.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_PetBottle
+    Address: Assets/Models/Q2_Object/Object/Object_PetBottle.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Pin
+    Address: Assets/Models/Q2_Object/Object/Object_Pin.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Pipe
+    Address: Assets/Models/Q2_Object/Object/Object_Pipe.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Pipe_Long
+    Address: Assets/Models/Q2_Object/Object/Object_Pipe_Long.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Plug
+    Address: Assets/Models/Q2_Object/Object/Object_Plug.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Plug_Base_Half
+    Address: Assets/Models/Q2_Object/Object/Object_Plug_Base_Half.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Sox_2D
+    Address: Assets/Models/Q2_Object/Object/Object_Sox_2D.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Spike
+    Address: Assets/Models/Q2_Object/Object/Object_Spike.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Spike_Edge
+    Address: Assets/Models/Q2_Object/Object/Object_Spike_Edge.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Spiral_2D
+    Address: Assets/Models/Q2_Object/Object/Object_Spiral_2D.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Spiral_Box_2D
+    Address: Assets/Models/Q2_Object/Object/Object_Spiral_Box_2D.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Sumo
+    Address: Assets/Models/Q2_Object/Object/Object_Sumo.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Switch
+    Address: Assets/Models/Q2_Object/Object/Object_Switch.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_TeslaCoil
+    Address: Assets/Models/Q2_Object/Object/Object_TeslaCoil.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Wanage_Pole
+    Address: Assets/Models/Q2_Object/Object/Object_Wanage_Pole.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Wanage_Ring1
+    Address: Assets/Models/Q2_Object/Object/Object_Wanage_Ring1.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Wanage_Ring2
+    Address: Assets/Models/Q2_Object/Object/Object_Wanage_Ring2.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Object_Wanage_Ring3
+    Address: Assets/Models/Q2_Object/Object/Object_Wanage_Ring3.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: for185_edgeRoundedBlock_32x3
+    Address: Assets/Models/Q2_Object/Stage_Wall/for185_edgeRoundedBlock_32x3.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Block_Map_1x1
+    Address: Assets/Models/Q2_Object/Stage_Wall/Materials/Block_Map_1x1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: lambert1
+    Address: Assets/Models/Q2_Object/Stage_Wall/Materials/lambert1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Material
+    Address: Assets/Models/Q2_Object/Stage_Wall/Materials/Material.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: halfround_piller_6x15
+    Address: Assets/Models/Q2_Object/Stage_Wall/Penta_7/halfround_piller_6x15.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Balloon1R
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Balloon1R.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Balloon2R_
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Balloon2R_.obj
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Balloon2R_Stone
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Balloon2R_Stone.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Bomb4
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Bomb4.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Electro3R
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Electro3R.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Extend1L
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Extend1L.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Extend4
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Extend4.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Extend6
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Extend6.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Extend7L
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Extend7L.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Mag1
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Mag1.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Mag10
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Mag10.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_NEW
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_NEW.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Strength10
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Strength10.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Strength6R
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Strength6R.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Strength7L
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Strength7L.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Strength7L_Stone
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Strength7L_Stone.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Super1
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Super1.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Super2
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Super2.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_Water3
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage_Water3.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage123
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage123.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage124
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage124.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage173
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage173.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage178
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage178.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage185
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage185.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage3
+    Address: Assets/Models/Q2_Object/Stage_Wall/Stage3.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Texture_Net
+    Address: Assets/Models/Q2_Object/Texture_Net.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Texture01 1
+    Address: Assets/Models/Q2_Object/Texture01 1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Texture01
+    Address: Assets/Models/Q2_Object/Texture01.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Bomb_RemoCon
+    Address: Assets/Models/Q2_Player/Bomb_RemoCon.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara00_Smooth
+    Address: Assets/Models/Q2_Player/Chara00_Smooth/Chara00_Smooth.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara00_Smooth
+    Address: Assets/Models/Q2_Player/Chara00_Smooth/Chara00_Smooth.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara01_Pitcher
+    Address: Assets/Models/Q2_Player/Item/Chara01_Pitcher.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara02_Jump
+    Address: Assets/Models/Q2_Player/Item/Chara02_Jump.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara03_Heavy
+    Address: Assets/Models/Q2_Player/Item/Chara03_Heavy.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara04_Balloon
+    Address: Assets/Models/Q2_Player/Item/Chara04_Balloon.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara05_Bomber
+    Address: Assets/Models/Q2_Player/Item/Chara05_Bomber.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara06_Electric
+    Address: Assets/Models/Q2_Player/Item/Chara06_Electric.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara07_Magnet
+    Address: Assets/Models/Q2_Player/Item/Chara07_Magnet.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara08_Outstretched
+    Address: Assets/Models/Q2_Player/Item/Chara08_Outstretched.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara09_Diver
+    Address: Assets/Models/Q2_Player/Item/Chara09_Diver.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara10_Ball
+    Address: Assets/Models/Q2_Player/Item/Chara10_Ball.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara11_Fire
+    Address: Assets/Models/Q2_Player/Item/Chara11_Fire.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara12_Glue
+    Address: Assets/Models/Q2_Player/Item/Chara12_Glue.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara13_Gravity
+    Address: Assets/Models/Q2_Player/Item/Chara13_Gravity.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara14_Friction
+    Address: Assets/Models/Q2_Player/Item/Chara14_Friction.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara15_Brawler
+    Address: Assets/Models/Q2_Player/Item/Chara15_Brawler.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara16_Eraser
+    Address: Assets/Models/Q2_Player/Item/Chara16_Eraser.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: _Burn
+    Address: Assets/Models/Q2_Player/Materials/_Burn.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: _ElectricShock
+    Address: Assets/Models/Q2_Player/Materials/_ElectricShock.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_PlayerUV
+    Address: Assets/Models/Q2_Player/Materials/Q2_PlayerUV.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Player_UV_Damage_Burn
+    Address: Assets/Models/Q2_Player/Player_UV_Damage_Burn.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Player_UV_Damage_ElectricShock
+    Address: Assets/Models/Q2_Player/Player_UV_Damage_ElectricShock.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara00_Normal
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara00_Normal.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara01_Pitcher
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara01_Pitcher.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara02_Jump
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara02_Jump.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara03_Heavy
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara03_Heavy.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara04_Balloon
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara04_Balloon.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara05_Bomber
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara05_Bomber.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara06_Electric
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara06_Electric.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara07_Magnet
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara07_Magnet.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara08_Outstretched
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara08_Outstretched.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara09_Diver
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara09_Diver.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara10_Ball
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara10_Ball.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara11_Fire
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara11_Fire.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara12_Glue
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara12_Glue.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara13_Gravity
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara13_Gravity.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara14_Friction
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara14_Friction.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara15_Brawler
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara15_Brawler.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara17_Line
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara17_Line.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Mat_Chara99_Hero
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Mat_Chara99_Hero.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Chara_Parts
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Q2_Chara_Parts.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara00_Normal
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara00_Normal.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara01_Pitcher
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara01_Pitcher.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara02_Jump
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara02_Jump.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara03_Heavy
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara03_Heavy.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara04_Balloon
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara04_Balloon.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara05_Bomber
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara05_Bomber.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara06_Electric
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara06_Electric.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara07_Magnet
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara07_Magnet.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara08_Outstretched
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara08_Outstretched.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara09_Diver
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara09_Diver.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara10_Ball
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara10_Ball.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara11_Fire
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara11_Fire.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara12_Glue
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara12_Glue.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara13_Gravity
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara13_Gravity.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara15_Brawler
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara15_Brawler.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara17_Line
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara17_Line.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Tex_Chara99_Hero
+    Address: Assets/Models/Q2_Player/Q2_Chara_Parts/Tex_Chara99_Hero.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Player
+    Address: Assets/Models/Q2_Player/Q2_Player.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Q2_Player_UV_TEST
+    Address: Assets/Models/Q2_Player/Q2_Player_UV_TEST.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Stage_BG_Gear
+    Address: Assets/Models/Stage_BG_Gear.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ZigzagCube_24_10
+    Address: Assets/Models/ZigzagCube/ZigzagCube_24_10.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ZigzagCube_24_19
+    Address: Assets/Models/ZigzagCube/ZigzagCube_24_19.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ZigzagCube_40_0
+    Address: Assets/Models/ZigzagCube/ZigzagCube_40_0.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ZigzagCube_40_7
+    Address: Assets/Models/ZigzagCube/ZigzagCube_40_7.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: obj_electric_battery
+    Address: Assets/Models/electric_battery/obj_electric_battery.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tex_electric_battery
+    Address: Assets/Models/electric_battery/tex_electric_battery.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

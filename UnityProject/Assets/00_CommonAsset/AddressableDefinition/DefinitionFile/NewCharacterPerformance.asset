@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: NewCharacterPerformance
+  m_EditorClassIdentifier: 
+  Category: 4
+  AdressList:
+  - AssetName: NewCharacerPerformance
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/Prefabs/NewCharacerPerformance.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance00_Chara00
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance00_Chara00.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance01_Chara01
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance01_Chara01.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance02_Chara02
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance02_Chara02.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance03_Chara03
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance03_Chara03.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance04_Chara04
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance04_Chara04.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance05_Chara05
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance05_Chara05.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance06_Chara06
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance06_Chara06.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance07_Chara07
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance07_Chara07.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance08_Chara08
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance08_Chara08.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance09_Chara09
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance09_Chara09.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance10_Chara10
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance10_Chara10.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance11_Chara11
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance11_Chara11.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance12_Chara12
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance12_Chara12.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance13_Chara13
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance13_Chara13.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance14_Chara14
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance14_Chara14.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance15_Chara15
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance15_Chara15.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance16_Chara16
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance16_Chara16.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Performance17_Chara17
+    Address: Assets/01_UI/01_05_NewCharacterPerformance/ScriptableObject/Performance17_Chara17.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

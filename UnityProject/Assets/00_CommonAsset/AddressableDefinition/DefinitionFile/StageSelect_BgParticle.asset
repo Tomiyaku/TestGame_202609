@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: StageSelect_BgParticle
+  m_EditorClassIdentifier: 
+  Category: 12
+  AdressList:
+  - AssetName: BGParticle_02
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Surfasce/BGParticle_02.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_03
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Surfasce/BGParticle_03.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_10
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Surfasce/BGParticle_10.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_11
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Surfasce/BGParticle_11.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_06
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Surfasce/BGParticle_06.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PtclBG_stageselect_Moji
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Surfasce/PtclBG_stageselect_Moji.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PtclBg_stageselect_hishi
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Surfasce/PtclBg_stageselect_hishi.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PtclBG_stageselect_M6_inspire
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Surfasce/PtclBG_stageselect_M6_inspire.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PtclBG_stageselect_M18_inspire
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Surfasce/PtclBG_stageselect_M18_inspire.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PtclBG_stageselect_crucru
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Surfasce/PtclBG_stageselect_crucru.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PtclBG_stageselect_Burst
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Surfasce/PtclBG_stageselect_Burst.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PtclBG_stageselect_shuuchuusen
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Surfasce/PtclBG_stageselect_shuuchuusen.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PtclBG_stageselect_T2_inspire
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Surfasce/PtclBG_stageselect_T2_inspire.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_02_ura
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Reverse/BGParticle_02_ura.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_03_ura
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Reverse/BGParticle_03_ura.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_06_ura
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Reverse/BGParticle_06_ura.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_10_ura
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Reverse/BGParticle_10_ura.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_11_ura
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Reverse/BGParticle_11_ura.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PtclBG_stageselect_Burst_ura
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Reverse/PtclBG_stageselect_Burst_ura.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PtclBG_stageselect_crucru_ura
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Reverse/PtclBG_stageselect_crucru_ura.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PtclBg_stageselect_hishi_ura
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Reverse/PtclBg_stageselect_hishi_ura.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PtclBG_stageselect_M6_inspire_ura
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Reverse/PtclBG_stageselect_M6_inspire_ura.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PtclBG_stageselect_M18_inspire_ura
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Reverse/PtclBG_stageselect_M18_inspire_ura.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PtclBG_stageselect_shuuchuusen_ura
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Reverse/PtclBG_stageselect_shuuchuusen_ura.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PtclBG_stageselect_T2_inspire_ura
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Reverse/PtclBG_stageselect_T2_inspire_ura.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_00
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Other/BGParticle_00.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_01
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Other/BGParticle_01.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_04
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Other/BGParticle_04.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_05
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Other/BGParticle_05.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_07
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Other/BGParticle_07.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_08
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Other/BGParticle_08.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_09
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Other/BGParticle_09.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_12
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Other/BGParticle_12.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_13
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Other/BGParticle_13.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_14
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Other/BGParticle_14.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_15
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Other/BGParticle_15.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_16
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Other/BGParticle_16.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_17
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Other/BGParticle_17.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_18
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Other/BGParticle_18.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_19
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Other/BGParticle_19.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: BGParticle_21
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/BGParticle/Surfasce/BGParticle_21.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

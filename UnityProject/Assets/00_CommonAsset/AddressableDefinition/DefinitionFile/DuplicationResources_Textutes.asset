@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: DuplicationResources_Textutes
+  m_EditorClassIdentifier: 
+  Category: 23
+  AdressList:
+  - AssetName: Coin
+    Address: Assets/_DEV/ObjectSprites/Coin.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_tex_charaselect_tilebg_dot
+    Address: Assets/00_CommonAsset/Textures/img_tex_charaselect_tilebg_dot.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_menu_bg
+    Address: Assets/01_UI/01_04_Menu/Textures/img_ui_menu_bg.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_menu_btn_bg_off
+    Address: Assets/01_UI/01_04_Menu/Textures/img_ui_menu_btn_bg_off.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_menu_btn_bg_on
+    Address: Assets/01_UI/01_04_Menu/Textures/img_ui_menu_btn_bg_on.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_menu_window_bg
+    Address: Assets/01_UI/01_04_Menu/Textures/img_ui_menu_window_bg.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: End_QlogoWhite
+    Address: Assets/01_UI/01_10_EventScene/Particles/Q2_Ending/End_QlogoWhite.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Block_Map_1x1
+    Address: Assets/Block_Map_1x1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tile130
+    Address: Assets/Materials/StageFrame/tex_StageFrame_t/tile130.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tile130m
+    Address: Assets/Materials/StageFrame/tex_StageFrame_t/tile130m.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tile130n
+    Address: Assets/Materials/StageFrame/tex_StageFrame_t/tile130n.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Square
+    Address: Assets/Sprites/Square.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Game_Countdown_1
+    Address: Assets/Sprites/UI/Game_Countdown_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Game_Countdown_2
+    Address: Assets/Sprites/UI/Game_Countdown_2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Game_Countdown_3
+    Address: Assets/Sprites/UI/Game_Countdown_3.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Game_Countdown_BG_1
+    Address: Assets/Sprites/UI/Game_Countdown_BG_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Game_Countdown_BG_2
+    Address: Assets/Sprites/UI/Game_Countdown_BG_2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Game_Countdown_BG_3
+    Address: Assets/Sprites/UI/Game_Countdown_BG_3.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Game_Result_Youdidit
+    Address: Assets/Sprites/UI/Game_Result_Youdidit.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Game_Result_Youdidit_BG
+    Address: Assets/Sprites/UI/Game_Result_Youdidit_BG.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Menu_Common
+    Address: Assets/01_UI/01_04_Menu/SpriteAtlas/Menu_Common.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_stage_message_bg
+    Address: Assets/01_UI/01_08_MessageWIndow/Textures/img_stage_message_bg.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

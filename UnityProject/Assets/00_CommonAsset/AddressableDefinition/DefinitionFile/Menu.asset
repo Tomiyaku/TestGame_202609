@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: Menu
+  m_EditorClassIdentifier: 
+  Category: 0
+  AdressList:
+  - AssetName: MenuCanvas
+    Address: Assets/01_UI/01_04_Menu/Prefabs/MenuCanvas.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Contents_Chara_PC
+    Address: Assets/01_UI/01_04_Menu/Prefabs/Howto/PC/Contents_Chara_PC.prefab
+    IsSceneAsset: 0
+    UsePlatform: 1
+    UseContidion: 0
+  - AssetName: Contents_Controller_PC
+    Address: Assets/01_UI/01_04_Menu/Prefabs/Howto/PC/Contents_Controller_PC.prefab
+    IsSceneAsset: 0
+    UsePlatform: 1
+    UseContidion: 0
+  - AssetName: Contents_Coop_PC
+    Address: Assets/01_UI/01_04_Menu/Prefabs/Howto/PC/Contents_Coop_PC.prefab
+    IsSceneAsset: 0
+    UsePlatform: 1
+    UseContidion: 0
+  - AssetName: Contents_Chara_Switch
+    Address: Assets/01_UI/01_04_Menu/Prefabs/Howto/Switch/Contents_Chara_Switch.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 0
+  - AssetName: Contents_Controller_Switch
+    Address: Assets/01_UI/01_04_Menu/Prefabs/Howto/Switch/Contents_Controller_Switch.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 0
+  - AssetName: Contents_Coop_Swich
+    Address: Assets/01_UI/01_04_Menu/Prefabs/Howto/Switch/Contents_Coop_Swich.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 8
+  - AssetName: Contents_Coop_Swich_NA
+    Address: Assets/01_UI/01_04_Menu/Prefabs/Howto/Switch/Contents_Coop_Swich_NA.prefab
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 4
+  - AssetName: SkinItem
+    Address: Assets/01_UI/01_04_Menu/Prefabs/Skin/SkinItem.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SkinLineup
+    Address: Assets/01_UI/01_04_Menu/TextAssets/SkinLineup.csv
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_menu_btn_top_controller_pc
+    Address: Assets/01_UI/01_04_Menu/Textures/MainMenu_Platform/img_ui_menu_btn_top_controller_pc.png
+    IsSceneAsset: 0
+    UsePlatform: 1
+    UseContidion: 0
+  - AssetName: img_ui_menu_btn_top_controller_switch
+    Address: Assets/01_UI/01_04_Menu/Textures/MainMenu_Platform/img_ui_menu_btn_top_controller_switch.png
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 0

@@ -19,6 +19,6 @@ public class UIView : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        m_GrabStateText.text = m_WireTip.IsUseConnectAngleLimit ? "Šp“x§ŒÀ" : "’Êí";
+        m_GrabStateText.text = m_WireTip.IsUseConnectAngleLimit ? "è§’åº¦åˆ¶é™" : "é€šå¸¸";
     }
 }

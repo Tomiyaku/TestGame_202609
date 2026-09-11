@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: DuplicationResources_Font
+  m_EditorClassIdentifier: 
+  Category: 26
+  AdressList:
+  - AssetName: FOT-RodinNTLGPro-M SDF
+    Address: Assets/Fonts/FOT-RodinNTLGPro-M SDF.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: FOT-RodinNTLGPro-M
+    Address: Assets/Fonts/FOT-RodinNTLGPro-M.otf
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: NotoSansJP-Bold SDF
+    Address: Assets/Fonts/NotoSansJP-Bold SDF.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: NotoSansJP-Bold
+    Address: Assets/Fonts/NotoSansJP-Bold.otf
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: LiberationSans
+    Address: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: LiberationSans SDF - Fallback
+    Address: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF -
+      Fallback.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: LiberationSans SDF
+    Address: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: TMP_SDF
+    Address: Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: TMP_SDF-Mobile
+    Address: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

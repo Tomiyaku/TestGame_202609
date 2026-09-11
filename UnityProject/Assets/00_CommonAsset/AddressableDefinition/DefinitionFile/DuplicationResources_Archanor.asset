@@ -1,0 +1,394 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: DuplicationResources_Archanor
+  m_EditorClassIdentifier: 
+  Category: 29
+  AdressList:
+  - AssetName: bigglow_blue
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/BigGlow/bigglow_blue.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bigglow_green
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/BigGlow/bigglow_green.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bigglow_modular 1
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/BigGlow/bigglow_modular
+      1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bigglow_modular
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/BigGlow/bigglow_modular.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bigglow_orange
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/BigGlow/bigglow_orange.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bigglow_purple
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/BigGlow/bigglow_purple.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bigglow_red
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/BigGlow/bigglow_red.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bigglow_yellow
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/BigGlow/bigglow_yellow.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: blast_modular
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Blast/blast_modular.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: fire_blue
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Fire/fire_blue.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: fire_modular_AB
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Fire/fire_modular_AB.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: fire4x4
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Fire/fire4x4.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: glow_noisy
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Glow/glow_noisy.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: glow_smoke_dusty AB
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Glow/glow_smoke_dusty
+      AB.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: glow_smoke_dusty
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Glow/glow_smoke_dusty.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: hexagon_gradient
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Gradients/hexagon_gradient.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: powerup_gradient2
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Gradients/powerup_gradient2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: laserblue
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Laser/laserblue.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: laserballblue
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Laserball/laserballblue.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: laserballred
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Laserball/laserballred.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: lightning_blue
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Lightning/lightning_blue.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: hologram
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Misc/hologram.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: symbol_hexagon_thick
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Misc/symbol_hexagon_thick.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: symbols
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Misc/symbols.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: muzzleflash_fire_small_red
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Muzzleflash/muzzleflash_fire_small_red.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: nova_blue
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Nova/nova_blue.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: novalines
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Nova/novalines.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: lensflare
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Portals/lensflare.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: firering
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Ring/firering.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ringblue
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Ring/ringblue.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ringmodular
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Ring/ringmodular.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: smokedissolve AB
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Smoke/smokedissolve
+      AB.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: doublefunnel
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Models/doublefunnel.FBX
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: scifi_bolt_3x
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Models/scifi_bolt_3x.FBX
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: scifi_hexagon_tube
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Models/scifi_hexagon_tube.FBX
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: scifi_hologram_01
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Models/scifi_hologram_01.FBX
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: scifi_hologram_02
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Models/scifi_hologram_02.FBX
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bigglow_blue
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/bigglow_blue.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bigglow_green
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/bigglow_green.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bigglow_modular
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/bigglow_modular.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bigglow_purple
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/bigglow_purple.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bigglow_red
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/bigglow_red.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bigglow_yellow
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/bigglow_yellow.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: blast_modular
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/blast_modular.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: fire_blue
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/fire_blue.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: fire_modular
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/fire_modular.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: fire_purple
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/fire_purple.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: fire4x4
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/fire4x4.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: firering
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/firering.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: glow_noisy
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/glow_noisy.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: glow_smoke_dusty
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/glow_smoke_dusty.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: hexagon_gradient2
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/hexagon_gradient2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: hologram
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/hologram.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: laserballblue
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/laserballblue.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: laserballred
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/laserballred.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: laserblue
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/laserblue.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: lensflare
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/lensflare.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: lightning_blue
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/lightning_blue.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: muzzleflash_fire_small_red
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/muzzleflash_fire_small_red.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: nova_blue
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/nova_blue.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: nova_red
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/nova_red.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: novalines
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/novalines.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: powerup_gradient2
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/powerup_gradient2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ringblue
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/ringblue.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ringmodular
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/ringmodular.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: smokedissolve
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/smokedissolve.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: symbol_hexagon_thick
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/symbol_hexagon_thick.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: symbols
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/symbols.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: glowyringsharp
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/SphereShield/glowyringsharp.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bullet_purple
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/bullet_purple.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: fire_purple
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Fire/fire_purple.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: glowyringsharp
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/glowyringsharp.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ringpurple
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Textures/ringpurple.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: bullet_purple
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Bullet/bullet_purple.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ringpurple
+    Address: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Ring/ringpurple.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

@@ -1,0 +1,2749 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: DuplicationResources_Knife
+  m_EditorClassIdentifier: 
+  Category: 22
+  AdressList:
+  - AssetName: Hologram Earth 1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth
+      1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram Earth 2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth
+      2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram Earth 3
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth
+      3.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram Earth 4
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth
+      4.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram Earth
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram Gun Details
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Gun Details.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram Gun Test 4
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Gun Test
+      4.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram Gun Test 5
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Gun Test
+      5.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram Gun Test 6
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Gun Test
+      6.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram Gun Test_Side 1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Gun Test_Side
+      1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram Material Ball 2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Material
+      Ball 2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram Material Ball 3
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Material
+      Ball 3.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram Material Ball 4
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Material
+      Ball 4.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram Material Ball 5
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Material
+      Ball 5.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram Material Ball_clear
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Material
+      Ball_clear.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram UniqueKey C
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram UniqueKey
+      C.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram UniqueKey G
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram UniqueKey
+      G.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram UniqueKey J
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram UniqueKey
+      J.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram UniqueKey R
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram UniqueKey
+      R.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Prism Blue 2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Prism Blue 2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Prism Blue 3
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/Prism Blue 3.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ptcl_space_Qmoji
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/ptcl_space_Qmoji.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tx_000 1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/tx_000 1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tx_000
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/tx_000.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tx_002
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/tx_002.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tx_003
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/tx_003.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tx_004 1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/tx_004 1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tx_004
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/tx_004.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_ 1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b1_ 1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_ 10
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b1_ 10.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_ 11
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b1_ 11.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_ 12
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b1_ 12.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_ 13
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b1_ 13.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_ 14
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b1_ 14.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_ 15
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b1_ 15.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_ 16
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b1_ 16.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_ 2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b1_ 2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_ 3
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b1_ 3.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_ 4
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b1_ 4.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_ 5
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b1_ 5.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_ 6
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b1_ 6.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_ 7
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b1_ 7.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_ 8
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b1_ 8.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_ 9
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b1_ 9.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_ 1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b2_ 1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_ 10
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b2_ 10.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_ 11
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b2_ 11.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_ 13
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b2_ 13.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_ 15
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b2_ 15.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_ 15_fragile
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b2_ 15_fragile.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_ 16
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b2_ 16.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_ 2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b2_ 2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_ 3
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b2_ 3.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_ 4
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b2_ 4.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_ 5
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b2_ 5.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_ 6
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b2_ 6.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_ 8_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b2_ 8_0.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_ 8_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b2_ 8_1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_ 8_2 wood
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b2_ 8_2 wood.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_ 9
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b2_ 9.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_ 1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b3_ 1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_ 10
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b3_ 10.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_ 11
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b3_ 11.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_ 12
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b3_ 12.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_ 13
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b3_ 13.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_ 14
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b3_ 14.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_ 16
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b3_ 16.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_ 2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b3_ 2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_ 3
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b3_ 3.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_ 4
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b3_ 4.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_ 5
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b3_ 5.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_ 6
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b3_ 6.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_ 7
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b3_ 7.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_ 9
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b3_ 9.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_ 1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b4_ 1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_ 10
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b4_ 10.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_ 11
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b4_ 11.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_ 12
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b4_ 12.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_ 13
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b4_ 13.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_ 14
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b4_ 14.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_ 15
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b4_ 15.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_ 16
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b4_ 16.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_ 2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b4_ 2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_ 5
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b4_ 5.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_ 6
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b4_ 6.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_ 7
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b4_ 7.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_ 9_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b4_ 9_1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_ 9_2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b4_ 9_2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 10
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 10.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 11
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 11.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 12
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 12.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 13
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 13.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 14_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 14_0.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 14_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 14_1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 14_2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 14_2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 14_3
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 14_3.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 15
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 15.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 16 1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 16 1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 16
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 16.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 2_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 2_0.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 2_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 2_1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 2_2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 2_2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 3
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 3.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 4
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 4.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 6_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 6_0.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 6_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 6_1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 7
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 7.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 8
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 8.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_ 9
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b5_ 9.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 1_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 1_0.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 1_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 1_1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 10
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 10.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 11
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 11.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 12
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 12.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 14
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 14.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 15_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 15_0.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 15_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 15_1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 16
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 16.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 2_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 2_0.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 2_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 2_1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 3
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 3.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 4
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 4.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 5
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 5.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 6
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 6.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 7
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 7.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 8_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 8_0.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 8_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 8_1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 8_2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 8_2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 9_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 9_0.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_ 9_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b6_ 9_1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_ 1_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b7_ 1_0.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_ 1_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b7_ 1_1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_ 10
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b7_ 10.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_ 11
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b7_ 11.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_ 12_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b7_ 12_0.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_ 12_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b7_ 12_1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_ 13
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b7_ 13.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_ 15
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b7_ 15.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_ 2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b7_ 2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_ 5
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b7_ 5.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_ 6
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b7_ 6.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_ 7
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b7_ 7.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_ 8
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b7_ 8.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_ 9
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_b7_ 9.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_finger R
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_finger R.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_finger
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_finger.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_NewStage0007
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_NewStage0007.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_01
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_primary_01.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_03
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_primary_03.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_04
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_primary_04.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_06
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_primary_06.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_06_2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_primary_06_2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_06_3
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_primary_06_3.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_08
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_primary_08.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_09
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_primary_09.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_primary_11.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_12
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_primary_12.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_15
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_primary_15.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_16
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_primary_16.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_01
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_01.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_02
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_02.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_03
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_03.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_04
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_04.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_05 yellow
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_05
+      yellow.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_05
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_05.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_06
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_06.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_07
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_07.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_08
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_08.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_09
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_09.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_10
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_10.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_11.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_12
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_12.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_13
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_13.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_14
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_14.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_15
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_15.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_16
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quaternary_16.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_01
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_01.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_02
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_02.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_03
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_03.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_04
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_04.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_05
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_05.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_06
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_06.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_07
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_07.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_09
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_09.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_10
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_10.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_11.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_12
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_12.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_13
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_13.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_14_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_14_0.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_14_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_14_1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_14_2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_14_2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_15
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_15.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_16
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_quinary_16.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_01
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_secondary_01.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_02
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_secondary_02.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_03
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_secondary_03.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_04
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_secondary_04.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_08
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_secondary_08.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_09
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_secondary_09.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_10
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_secondary_10.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_secondary_11.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_12
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_secondary_12.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_13
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_secondary_13.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_15
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_secondary_15.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_16
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_secondary_16.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_02
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_tertiary_02.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_03
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_tertiary_03.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_05
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_tertiary_05.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_06
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_tertiary_06.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_07
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_tertiary_07.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_09
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_tertiary_09.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_10
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_tertiary_10.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_tertiary_11.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_13
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_tertiary_13.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_15
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_tertiary_15.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_16
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_tertiary_16.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_00_hito
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_00_hito.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_01_aida
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_01_aida.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_02_ga
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_02_ga.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_03_hidari
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_03_hidari.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_04_no
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_04_no.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_05_ka
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_05_ka.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_06_be
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_06_be.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_07_ni
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_07_ni.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_08_fureru
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_08_fureru.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_09_re
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_09_re.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_10_ro
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_10_ro.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_11_e
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_11_e.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_12_ri_katakana
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_12_ri_katakana.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_13_a_katakana
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_13_a_katakana.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_14_ireru
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_14_ireru.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_15_maru_tate
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_15_maru_tate.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_16_maru_yoko
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_16_maru_yoko.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_17_bo_katakana
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_17_bo_katakana.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_18_bou_tate
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_18_bou_tate.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_19_bou_yoko
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_19_bou_yoko.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_20_wo
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_20_wo.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_21_sa
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_21_sa.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_22_se
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_22_se.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_23_migi
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_23_migi.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_25_aka
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_25_aka.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_26_i
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_26_i.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_27_ko
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_27_ko.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_28_ru_katakana
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_28_ru_katakana.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_29_a
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_29_a.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_29_te
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_29_te.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_30_so
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_30_so.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_33_zen
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_33_zen.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_34_dasu
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_34_dasu.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_35_su
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_35_su.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_36_otosu
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_36_otosu.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_37_to
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_37_to.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_39_te
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_39_te.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_40_tama
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_40_tama.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_42_kaku
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_42_kaku.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_43_ta
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_43_ta.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_TEST_44_mo
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_TEST_44_mo.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_45_na
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_test_45_na.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_UnderConstruction2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_UnderConstruction2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_warning000
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_warning000.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_warning001
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_warning001.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_warning002
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_warning002.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_warning004
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/txt_warning004.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_AT-F_NoDraw
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_AT-F_NoDraw.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_AT-F_NoPlayer
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_AT-F_NoPlayer.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_AT-F_OnlyPlayer
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_AT-F_OnlyPlayer.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_clyrinder 2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_clyrinder 2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_clyrinder
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_clyrinder.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_DoorCircle 1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_DoorCircle
+      1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_DoorCircle
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_DoorCircle.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_p15_inball 1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_p15_inball
+      1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_p15_inball
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_p15_inball.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_room_seeleWall_3 2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_room_seeleWall_3
+      2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_SphereKey_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_SphereKey_0.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_SphereKey_0_clear
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_SphereKey_0_clear.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_SphereKey_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_SphereKey_1.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_SphereKey_1_clear
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_SphereKey_1_clear.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_SphereKey_2
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_SphereKey_2.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_SphereKey_2_clear
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_SphereKey_2_clear.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_SphereKey_3
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_SphereKey_3.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_SphereKey_3_clear
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/xxx_SphereKey_3_clear.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram Shader Depth Mask
+    Address: Assets/Knife/Customizable Hologramm Shader/Shaders/Hologram Shader Depth
+      Mask.shader
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Hologram Shader
+    Address: Assets/Knife/Customizable Hologramm Shader/Shaders/Hologram Shader.shader
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Soft Holo Cone
+    Address: Assets/Knife/Customizable Hologramm Shader/Shaders/Soft Holo Cone.shader
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Blur one sided 1
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/Blur one sided 1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Blur one sided
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/Blur one sided.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Blur
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/Blur.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Blur1
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/Blur1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: EarthAlpha
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/EarthAlpha.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: EarthNormal
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/EarthNormal.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: noise
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/noise.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ptcl_space_Qmoji
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/ptcl_space_Qmoji.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: q_004
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/q_004.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: q_004R
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/q_004R.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tex_circle
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/tex_circle.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tex_DoorMold 12
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/tex_DoorMold 12.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tex_DoorMold 14
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/tex_DoorMold 14.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tex_hexagon_3
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/tex_hexagon_3.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tx_000
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/tx_000.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tx_000_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/tx_000_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tx_002
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/tx_002.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tx_003
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/tx_003.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: tx_004
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/tx_004.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_01
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b1_01.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_02
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b1_02.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_03
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b1_03.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_04
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b1_04.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_05
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b1_05.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_06
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b1_06.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_07
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b1_07.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_08
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b1_08.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_09
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b1_09.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_10
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b1_10.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b1_11.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_12
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b1_12.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_13
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b1_13.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_14
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b1_14.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_15
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b1_15.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b1_16
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b1_16.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_01
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b2_01.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_02
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b2_02.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_03
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b2_03.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_04
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b2_04.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_05
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b2_05.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_06
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b2_06.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_08
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b2_08.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_08_2
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b2_08_2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_08_wood
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b2_08_wood.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_09
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b2_09.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_10
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b2_10.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b2_11.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_13
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b2_13.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_15
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b2_15.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_15_fragile
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b2_15_fragile.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b2_16
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b2_16.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_01
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b3_01.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_02
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b3_02.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_03
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b3_03.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_04
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b3_04.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_05
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b3_05.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_06
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b3_06.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_07
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b3_07.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_09
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b3_09.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_10
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b3_10.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b3_11.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_12
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b3_12.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_13
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b3_13.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_14
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b3_14.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b3_16
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b3_16.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_01
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b4_01.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_02
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b4_02.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_05
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b4_05.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_06
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b4_06.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_07
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b4_07.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_09_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b4_09_0.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_09_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b4_09_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_10
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b4_10.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b4_11.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_12
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b4_12.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_13
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b4_13.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_14
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b4_14.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_15
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b4_15.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b4_16
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b4_16.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_01
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_01.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_02_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_02_0.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_02_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_02_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_02_2
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_02_2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_04
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_04.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_06_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_06_0.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_06_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_06_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_07
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_07.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_08
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_08.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_09
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_09.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_10
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_10.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_11.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_12
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_12.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_13
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_13.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_14_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_14_0.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_14_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_14_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_14_2
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_14_2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_14_3
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_14_3.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_15
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_15.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_16 1
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_16 1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_16
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_16.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b5_3
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b5_3.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_01_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_01_0.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_01_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_01_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_02_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_02_0.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_02_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_02_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_03
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_03.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_04
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_04.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_05
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_05.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_06
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_06.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_07
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_07.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_08_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_08_0.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_08_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_08_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_08_2
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_08_2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_09_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_09_0.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_09_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_09_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_10
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_10.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_11.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_12
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_12.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_14
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_14.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_15_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_15_0.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_15_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_15_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b6_16
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b6_16.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_01_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b7_01_0.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_01_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b7_01_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_02
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b7_02.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_05
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b7_05.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_06
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b7_06.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_07
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b7_07.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_08
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b7_08.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_09
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b7_09.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_10
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b7_10.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b7_11.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_12_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b7_12_0.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_12_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b7_12_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_13
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b7_13.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_b7_15
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_b7_15.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_NewStage0007
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_NewStage0007.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_01
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_primary_01.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_03
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_primary_03.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_04
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_primary_04.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_06
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_primary_06.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_06_2
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_primary_06_2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_06_3
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_primary_06_3.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_08
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_primary_08.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_09
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_primary_09.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_primary_11.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_12
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_primary_12.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_15
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_primary_15.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_primary_16
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_primary_16.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_01
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_01.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_02
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_02.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_03
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_03.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_04
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_04.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_05 yellow
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_05
+      yellow.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_05
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_05.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_06
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_06.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_07
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_07.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_08
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_08.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_09
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_09.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_10
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_10.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_11.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_12
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_12.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_13
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_13.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_14
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_14.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_15
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_15.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quaternary_16
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quaternary_16.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_01
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_01.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_02
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_02.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_03
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_03.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_04
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_04.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_05
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_05.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_06
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_06.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_07
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_07.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_09
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_09.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_10
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_10.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_11.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_12
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_12.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_13
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_13.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_14_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_14_0.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_14_1
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_14_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_14_2
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_14_2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_15
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_15.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_quinary_16
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_quinary_16.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_01
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_secondary_01.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_02
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_secondary_02.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_03
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_secondary_03.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_04
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_secondary_04.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_08
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_secondary_08.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_09
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_secondary_09.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_10
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_secondary_10.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_secondary_11.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_12
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_secondary_12.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_13
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_secondary_13.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_15
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_secondary_15.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_secondary_16
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_secondary_16.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_02
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_tertiary_02.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_03
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_tertiary_03.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_05
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_tertiary_05.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_06
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_tertiary_06.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_07
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_tertiary_07.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_09
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_tertiary_09.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_10
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_tertiary_10.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_11
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_tertiary_11.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_13
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_tertiary_13.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_14
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_tertiary_14.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_15
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_tertiary_15.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_tertiary_16
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_tertiary_16.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_00_hito
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_00_hito.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_01_aida
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_01_aida.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_02_ga
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_02_ga.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_03_hidari
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_03_hidari.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_04_no
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_04_no.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_05_ka
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_05_ka.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_06_be
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_06_be.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_07_ni
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_07_ni.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_08_shoku
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_08_shoku.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_09_re
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_09_re.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_10_ro
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_10_ro.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_11_aka
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_11_aka.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_12_i
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_12_i.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_13_e
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_13_e.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_14_ri
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_14_ri.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_15_a
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_15_a.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_16_hairu
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_16_hairu.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_17_maru_yoko
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_17_maru_yoko.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_18_maru_tate
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_18_maru_tate.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_19_bo
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_19_bo.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_20_bou_tate
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_20_bou_tate.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_21_bou_yoko
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_21_bou_yoko.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_22_ru
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_22_ru.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_23_wo
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_23_wo.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_24_sa
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_24_sa.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_25_se
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_25_se.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_26_migi
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_26_migi.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_28_ko
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_28_ko.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_30_a
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_30_a.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_31_so
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_31_so.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_34_zen
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_34_zen.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_35_dasu
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_35_dasu.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_36_su
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_36_su.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_37_ochiru
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_37_ochiru.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_38_to
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_38_to.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_40_te
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_40_te.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_41_tama
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_41_tama.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_42_kaku
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_42_kaku.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_43_ta
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_43_ta.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_44_mo
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_44_mo.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_test_45_na
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_test_45_na.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_UnderConstruction2
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_UnderConstruction2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_warning_002
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_warning_002.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_warning_004
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_warning_004.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_warning000
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_warning000.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: txt_warning001
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/txt_warning001.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_room_seeleWall_0
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/xxx_room_seeleWall_0.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: xxx_room_seeleWall_2
+    Address: Assets/Knife/Customizable Hologramm Shader/Textures/xxx_room_seeleWall_2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SphereMan black
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/SphereMan black.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SphereMan_holo
+    Address: Assets/Knife/Customizable Hologramm Shader/Materials/SphereMan_holo.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

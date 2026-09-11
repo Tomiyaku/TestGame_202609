@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7430a9aedf52b694da8bae75f950ceed, type: 3}
+  m_Name: SteamAchievementData
+  m_EditorClassIdentifier: 
+  FirstBootApiName: StartUp
+  FirstClearedStage:
+    ApiName: 1stClearStage
+    TargetParam: 0
+  FirstGetMedal:
+    ApiName: 1stGetMedal
+    TargetParam: 1
+  CrearedTutorialStage:
+    ApiName: TutorialClear
+    TargetParam: 7
+  FirstUnlockkNewArea:
+    ApiName: 1stUnliockArea
+    TargetParam: 7
+  UnlockRevaerceSide:
+    ApiName: UnlockReverseSide
+    TargetParam: 80
+  MultiPlayApiName: MultiPlay
+  UnlockCharacterAchivementList:
+  - ApiName: UnlockCharacterNormal
+    TargetParam: 0
+  - ApiName: UnlockCharacterPicher
+    TargetParam: 1
+  - ApiName: UnlockCharacterJumper
+    TargetParam: 2
+  - ApiName: UnlockCharacterHeavy
+    TargetParam: 3
+  - ApiName: UnlockCharacterBalloon
+    TargetParam: 4
+  - ApiName: UnlockCharacterBomber
+    TargetParam: 5
+  - ApiName: UnlockCharacterElectric
+    TargetParam: 6
+  - ApiName: UnlockCharacterMagnet
+    TargetParam: 7
+  - ApiName: UnlockCharacterOutstretched
+    TargetParam: 8
+  - ApiName: UnlockCharacterDiver
+    TargetParam: 9
+  - ApiName: UnlockCharacterBall
+    TargetParam: 10
+  - ApiName: UnlockCharacterFire
+    TargetParam: 11
+  - ApiName: UnlockCharacterGlue
+    TargetParam: 12
+  - ApiName: UnlockCharacterGravity
+    TargetParam: 13
+  - ApiName: UnlockCharacterFriction
+    TargetParam: 14
+  - ApiName: UnlockCharacterBrawler
+    TargetParam: 15
+  - ApiName: UnlockCharacterEraset
+    TargetParam: 16
+  - ApiName: UnlockCharacterTime
+    TargetParam: 17
+  ClearedStageCountAchivementList:
+  - ApiName: ClearedStageCount_32
+    TargetParam: 32
+  - ApiName: ClearedStageCount_64
+    TargetParam: 64
+  - ApiName: ClearedStageCount_96
+    TargetParam: 96
+  - ApiName: ClearedStageCount_128
+    TargetParam: 128
+  - ApiName: ClearedStageCount_160
+    TargetParam: 160
+  - ApiName: ClearedStageCount_192
+    TargetParam: 192
+  - ApiName: ClearedStageCount_224
+    TargetParam: 224
+  - ApiName: ClearedStageCount_256
+    TargetParam: 256
+  - ApiName: ClearedStageCount_288
+    TargetParam: 288
+  - ApiName: ClearedStageCount_320
+    TargetParam: 320
+  - ApiName: ClearedStageCount_352
+    TargetParam: 352
+  - ApiName: ClearedStageCount_386
+    TargetParam: 386
+  AllCleardSurfaceStageApiName: AllCleardSurfaceStage
+  AllCleardReverseStageApiName: AllCleardReverseStage
+  GetMedalCountAchivementList:
+  - ApiName: GetMedalCount_32
+    TargetParam: 32
+  - ApiName: GetMedalCount_64
+    TargetParam: 64
+  - ApiName: GetMedalCount_96
+    TargetParam: 96
+  - ApiName: GetMedalCount_128
+    TargetParam: 128
+  - ApiName: GetMedalCount_160
+    TargetParam: 160
+  - ApiName: GetMedalCount_192
+    TargetParam: 192
+  - ApiName: GetMedalCount_224
+    TargetParam: 224
+  - ApiName: GetMedalCount_256
+    TargetParam: 256
+  - ApiName: GetMedalCount_288
+    TargetParam: 288
+  - ApiName: GetMedalCount_320
+    TargetParam: 320
+  - ApiName: GetMedalCount_352
+    TargetParam: 352
+  - ApiName: GetMedalCount_385
+    TargetParam: 385
+  AllGetMedalToSurfaceStageApiName: AllGetMedalToSurfaceStage
+  AllGetMedalToReverseStageApiName: AllGetMedalToReverseStage
+  AllStageCleredAndAllGetkMedalApiName: AllStageCleredAndAllGetkMedal
+  DrawLengthAchivementList:
+  - ApiName: DrawLength_139
+    TargetParam: 139
+  - ApiName: DrawLength_828
+    TargetParam: 828
+  - ApiName: DrawLength_1741
+    TargetParam: 1741
+  - ApiName: DrawLength_3776
+    TargetParam: 3776
+  - ApiName: DrawLength_8849
+    TargetParam: 8849
+  - ApiName: DrawLength_10920
+    TargetParam: 10920
+  - ApiName: DrawLength_42195
+    TargetParam: 42195
+  - ApiName: DrawLength_100000
+    TargetParam: 100000
+  - ApiName: DrawLength_408000
+    TargetParam: 408000
+  - ApiName: DrawLength_500000
+    TargetParam: 500000
+  DrawLength1000mToOneStage:
+    ApiName: DrawLength1000mToOneStage
+    TargetParam: 1000
+  RetryCountAchivementList:
+  - ApiName: RetryCount_99
+    TargetParam: 99
+  - ApiName: RetryCount_999
+    TargetParam: 999
+  CompliteAchivementApiName: CompliteAchievement

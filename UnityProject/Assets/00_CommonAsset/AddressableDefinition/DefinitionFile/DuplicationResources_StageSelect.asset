@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: DuplicationResources_StageSelect
+  m_EditorClassIdentifier: 
+  Category: 34
+  AdressList:
+  - AssetName: Number
+    Address: Assets/00_CommonAsset/SpriteAtlas/Number.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_menu_skin_num_0
+    Address: Assets/00_CommonAsset/Textures/num/img_ui_menu_skin_num_0.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_menu_skin_num_1
+    Address: Assets/00_CommonAsset/Textures/num/img_ui_menu_skin_num_1.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_menu_skin_num_2
+    Address: Assets/00_CommonAsset/Textures/num/img_ui_menu_skin_num_2.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_menu_skin_num_3
+    Address: Assets/00_CommonAsset/Textures/num/img_ui_menu_skin_num_3.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_menu_skin_num_4
+    Address: Assets/00_CommonAsset/Textures/num/img_ui_menu_skin_num_4.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_menu_skin_num_5
+    Address: Assets/00_CommonAsset/Textures/num/img_ui_menu_skin_num_5.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_menu_skin_num_6
+    Address: Assets/00_CommonAsset/Textures/num/img_ui_menu_skin_num_6.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_menu_skin_num_7
+    Address: Assets/00_CommonAsset/Textures/num/img_ui_menu_skin_num_7.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_menu_skin_num_8
+    Address: Assets/00_CommonAsset/Textures/num/img_ui_menu_skin_num_8.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_menu_skin_num_9
+    Address: Assets/00_CommonAsset/Textures/num/img_ui_menu_skin_num_9.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: mat_particle_circle_bokeh
+    Address: Assets/01_UI/01_02_StageSelect/Materials/BGParticle/mat_particle_circle_bokeh.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: mat_particle_dot
+    Address: Assets/01_UI/01_02_StageSelect/Materials/BGParticle/mat_particle_dot.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: mat_line_dot_small
+    Address: Assets/01_UI/01_02_StageSelect/Materials/mat_line_dot_small.mat
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: sphere_diaball
+    Address: Assets/01_UI/01_02_StageSelect/Mesh/SphereSelect/sphere_diaball.fbx
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: UnlitUVScroll
+    Address: Assets/01_UI/01_02_StageSelect/Shaders/UnlitUVScroll.shader
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_line_dot
+    Address: Assets/01_UI/01_02_StageSelect/Textures/img_line_dot.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

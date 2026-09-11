@@ -28,6 +28,6 @@ public class Ballon : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Rigidbody2D.velocity= Vector2.up * m_RiseVelocity;
+        Rigidbody2D.linearVelocity= Vector2.up * m_RiseVelocity;
     }
 }

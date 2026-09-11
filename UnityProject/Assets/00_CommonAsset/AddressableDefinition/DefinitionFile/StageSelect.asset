@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: StageSelect
+  m_EditorClassIdentifier: 
+  Category: 2
+  AdressList:
+  - AssetName: StageSelect
+    Address: Assets/01_UI/01_02_StageSelect/Scenes/StageSelect.unity
+    IsSceneAsset: 1
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_stage_thumb_unknown
+    Address: Assets/01_UI/01_02_StageSelect/Textures/img_stage_thumb_unknown.png
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: ico_cursor_stageselect
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/ico_cursor_stageselect.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: StageLink
+    Address: Assets/01_UI/01_02_StageSelect/SpriteAtlas/StageLink.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SpheresPackage
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/SpheresPackage.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: StageGroupPakcage
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/StageGroupPakcage.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: DebugDataEdit
+    Address: Assets/99_Debug/Prefabs/DebugDataEdit.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 1
+  - AssetName: FlipFirstPerformance
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/SphereSelect/FlipFirstPerformance.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: PreparingView
+    Address: Assets/01_UI/01_02_StageSelect/Prefabs/PreparingView.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: SE_Stage
+  m_EditorClassIdentifier: 
+  Category: 54
+  AdressList:
+  - AssetName: SE_Stage_000_Draw
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_000_Draw.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_001_Hit_NoDrawArea
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_001_Hit_NoDrawArea.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_002_FireExtinguish
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_002_FireExtinguish.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_003_Burning
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_003_Burning.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_004_BurnUp
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_004_BurnUp.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_005_Lave
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_005_Lave.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_006_ElectorickShockArea
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_006_ElectorickShockArea.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_007_Electrode
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_007_Electrode.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_008_Electrification_Success
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_008_Electrification_Success.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_009_Electrification_Failed
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_009_Electrification_Failed.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_010_WaterFlows
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_010_WaterFlows.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_011_Coin_StartMove
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_011_Coin_StartMove.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_012_Coin_Get
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_012_Coin_Get.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_013_Shutter_Open
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_013_Shutter_Open.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_014_Shutter_Open_End
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_014_Shutter_Open_End.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_015_Button_StepOn
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_015_Button_StepOn.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_016_Lever_Switched
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_016_Lever_Switched.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_017_Door_Flash
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_017_Door_Flash.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_018_Door_Contact_Key
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_018_Door_Contact_Key.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_019_Door_Open_SmallKey
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_019_Door_Open_SmallKey.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_020_Move_Floor
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_020_Move_Floor.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_021_Turn_Gears
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_021_Turn_Gears.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_022_Erase_Block_00
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_022_Erase_Block_00.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_023_Erase_Block_01
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_023_Erase_Block_01.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_024_Erase_Block_02
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_024_Erase_Block_02.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_025_Erase_Block_03
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_025_Erase_Block_03.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_026_Erase_Block_04
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_026_Erase_Block_04.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_027_Erase_Block_05
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_027_Erase_Block_05.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_028_Erase_Block_06
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_028_Erase_Block_06.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_029_Erase_Block_07
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_029_Erase_Block_07.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_030_Erase_Block_08
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_030_Erase_Block_08.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_031_Erase_Block_09
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_031_Erase_Block_09.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_032_Find_HideArea
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_032_Find_HideArea.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SE_Stage_033_Break_Brick
+    Address: Assets/03_AudioManagement/AudioClips/SE/Stage/SE_Stage_033_Break_Brick.wav
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0

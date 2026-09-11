@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835effa8637fbb448b46aadeed24247c, type: 3}
+  m_Name: CharacterSelect
+  m_EditorClassIdentifier: 
+  Category: 3
+  AdressList:
+  - AssetName: CharacterSelect
+    Address: Assets/01_UI/01_03_CharacterSelect/Scenes/CharacterSelect.unity
+    IsSceneAsset: 1
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: SkillRing
+    Address: Assets/01_UI/01_03_CharacterSelect/Prefabs/SkillRing.prefab
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: CharaIconImage
+    Address: Assets/01_UI/01_03_CharacterSelect/SpriteAtlas/CharaIconImage.spriteatlas
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: img_ui_charaselect_changeskin_keyboard
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/SkinSelect/img_ui_charaselect_changeskin_keyboard.png
+    IsSceneAsset: 0
+    UsePlatform: 1
+    UseContidion: 0
+  - AssetName: img_ui_charaselect_changeskin_pad
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/SkinSelect/img_ui_charaselect_changeskin_pad.png
+    IsSceneAsset: 0
+    UsePlatform: 1
+    UseContidion: 0
+  - AssetName: img_ui_charaselect_changeskin_switch
+    Address: Assets/01_UI/01_03_CharacterSelect/Textures/SkinSelect/img_ui_charaselect_changeskin_switch.png
+    IsSceneAsset: 0
+    UsePlatform: 2
+    UseContidion: 0
+  - AssetName: Chara_00
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_00.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_01
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_01.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_02
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_02.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_03
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_03.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_04
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_04.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_05
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_05.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_06
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_06.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_07
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_07.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_08
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_08.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_09
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_09.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_10
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_10.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_11
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_11.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_12
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_12.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_13
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_13.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_14
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_14.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_15
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_15.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_16
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_16.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
+  - AssetName: Chara_17
+    Address: Assets/01_UI/01_03_CharacterSelect/ScriptableObject/CharaData/Chara_17.asset
+    IsSceneAsset: 0
+    UsePlatform: 255
+    UseContidion: 0
