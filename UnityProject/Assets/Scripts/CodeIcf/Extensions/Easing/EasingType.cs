@@ -1,0 +1,34 @@
+namespace CodeIcf.Extensions.Easing
+{
+    public enum EasingType
+    {
+        QuadIn,
+        QuadOut,
+        QuadInOut,
+        CubicIn,
+        CubicOut,
+        CubicInOut,
+        QuartIn,
+        QuartOut,
+        QuartInOut,
+        QuintIn,
+        QuintOut,
+        QuintInOut,
+        SineIn,
+        SineOut,
+        SineInOut,
+        ExpIn,
+        ExpOut,
+        ExpInOut,
+        CircIn,
+        CircOut,
+        CircInOut,
+        ElasticIn,
+        ElasticOut,
+        ElasticInOut,
+        BounceIn,
+        BounceOut,
+        BounceInOut,
+        Linear,
+    }
+}
